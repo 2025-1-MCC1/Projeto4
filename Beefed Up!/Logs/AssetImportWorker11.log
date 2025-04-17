@@ -1,0 +1,343 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.38f1 (82314a941f2d) revision 8532298'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'pt' Physical Memory: 7880 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 6000.0.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker11
+-projectPath
+C:/Users/25027230/My project
+-logFile
+Logs/AssetImportWorker11.log
+-srvPort
+64929
+-job-worker-count
+9
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/25027230/My project
+C:/Users/25027230/My project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [2108]  Target information:
+
+Player connection [2108]  * "[IP] 10.1.34.73 [Port] 0 [Flags] 2 [Guid] 4259415661 [EditorId] 4259415661 [Version] 1048832 [Id] WindowsEditor(7,350-20) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [2108]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 4259415661 [EditorId] 4259415661 [Version] 1048832 [Id] WindowsEditor(7,350-20) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [2108]  * "[IP] 172.26.48.1 [Port] 0 [Flags] 2 [Guid] 4259415661 [EditorId] 4259415661 [Version] 1048832 [Id] WindowsEditor(7,350-20) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [2108] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [2108] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 5.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.38f1 (82314a941f2d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 6000.0.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/25027230/My project/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 770 (ID=0x4680)
+    Vendor:   Intel
+    VRAM:     3940 MB
+    Driver:   32.0.101.6078
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56088
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer/UnityEditor.VisionOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.022715 seconds.
+- Loaded All Assemblies, in  0.727 seconds
+Native extension for LinuxStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.624 seconds
+Domain Reload Profiling: 1346ms
+	BeginReloadAssembly (301ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (102ms)
+	LoadAllAssembliesAndSetupDomain (251ms)
+		LoadAssemblies (298ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (243ms)
+			TypeCache.Refresh (240ms)
+				TypeCache.ScanAssembly (213ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (624ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (538ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (216ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (73ms)
+			ProcessInitializeOnLoadAttributes (168ms)
+			ProcessInitializeOnLoadMethodAttributes (76ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.023 seconds
+Refreshing native plugins compatible for Editor in 1.69 ms, found 3 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.88 ms, found 3 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.517 seconds
+Domain Reload Profiling: 3532ms
+	BeginReloadAssembly (322ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (65ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (1565ms)
+		LoadAssemblies (839ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (911ms)
+			TypeCache.Refresh (628ms)
+				TypeCache.ScanAssembly (499ms)
+			BuildScriptInfoCaches (263ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1519ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1182ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (84ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (175ms)
+			ProcessInitializeOnLoadAttributes (680ms)
+			ProcessInitializeOnLoadMethodAttributes (218ms)
+			AfterProcessingInitializeOnLoad (19ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (19ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 2.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 273 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5991 unused Assets / (7.2 MB). Loaded Objects now: 6728.
+Memory consumption went from 193.1 MB to 185.9 MB.
+Total: 16.551200 ms (FindLiveObjects: 1.553400 ms CreateObjectMapping: 1.444900 ms MarkObjects: 8.123700 ms  DeleteObjects: 5.425800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 26582.781924 seconds.
+  path: Assets/Casas Cidade/FBX format/building-corner-bottom.fbx
+  artifactKey: Guid(d687c31517b74b54197c254e4a36b1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/building-corner-bottom.fbx using Guid(d687c31517b74b54197c254e4a36b1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a488569bae1193188e06362a2152ea00') in 1.161266 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.141651 seconds.
+  path: Assets/Casas Cidade/FBX format/building-window-awnings.fbx
+  artifactKey: Guid(e39706e6aa92a9e458a389923257eb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/building-window-awnings.fbx using Guid(e39706e6aa92a9e458a389923257eb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d629d155b7670d6da9a13ab98639e9a') in 0.0501781 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.275437 seconds.
+  path: Assets/Casas Cidade/FBX format/building-window-left.fbx
+  artifactKey: Guid(599f9651b099fee4a8b882e8032eb099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/building-window-left.fbx using Guid(599f9651b099fee4a8b882e8032eb099) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10791be2fea93ff17ec152e9f89b8f9b') in 0.0438041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.108559 seconds.
+  path: Assets/Casas Cidade/FBX format/building-windows-high-middle.fbx
+  artifactKey: Guid(fbcfba5840fbe7c49a48bae9900d06c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/building-windows-high-middle.fbx using Guid(fbcfba5840fbe7c49a48bae9900d06c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a93bb5a162b5805510e97b2d1b861af8') in 0.0406953 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.977864 seconds.
+  path: Assets/Casas Cidade/FBX format/door-brown.fbx
+  artifactKey: Guid(825d8946d389e67499600baa82303bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/door-brown.fbx using Guid(825d8946d389e67499600baa82303bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd50992a088ec1a2a9b5cfbe5d416ce99') in 0.0455537 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.303987 seconds.
+  path: Assets/Casas Cidade/FBX format/roof-flat-awning-c.fbx
+  artifactKey: Guid(dd8c0ab64dedbde4088d091d86787333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/roof-flat-awning-c.fbx using Guid(dd8c0ab64dedbde4088d091d86787333) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f1176e112f27a60982a361f98a2b4e38') in 0.0437903 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Casas Cidade/FBX format/roof-flat-border-corner-slanted.fbx
+  artifactKey: Guid(49d823c538c1e6442bb2717ed82447ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/roof-flat-border-corner-slanted.fbx using Guid(49d823c538c1e6442bb2717ed82447ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '14df42d4fa06e514ab3abe404525aeb1') in 0.0423573 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.572079 seconds.
+  path: Assets/Casas Cidade/FBX format/roof-flat-border-straight.fbx
+  artifactKey: Guid(600313bfa4aa8de43bc9a5e4aa44c43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/roof-flat-border-straight.fbx using Guid(600313bfa4aa8de43bc9a5e4aa44c43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '71bb5a2adcd9c600775cd3858ab481ad') in 0.0448864 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.217359 seconds.
+  path: Assets/Casas Cidade/FBX format/roof-flat-top.fbx
+  artifactKey: Guid(bc8423c5c389cff4e9d2e0ec33da452b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/roof-flat-top.fbx using Guid(bc8423c5c389cff4e9d2e0ec33da452b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a762959ae70c0602bdcf1cddc9666ddb') in 0.0372414 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Casas Cidade/FBX format/roof-slanted-corner-a.fbx
+  artifactKey: Guid(4b9df1967f289544086b8753ac74d98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/roof-slanted-corner-a.fbx using Guid(4b9df1967f289544086b8753ac74d98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a6e0240f96d36d0b3c68db1b97ad0ec6') in 0.0332036 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.460906 seconds.
+  path: Assets/Casas Cidade/FBX format/roof-slanted-corner-inner.fbx
+  artifactKey: Guid(b6eace0c826fd4e468126681fd2b5ed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/roof-slanted-corner-inner.fbx using Guid(b6eace0c826fd4e468126681fd2b5ed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bbefdfc71c82c700afc55fc955115e6b') in 0.0726085 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.109473 seconds.
+  path: Assets/Casas Cidade/FBX format/window-brown-round-low.fbx
+  artifactKey: Guid(8be91451b1134cf459a9b505a7958eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/window-brown-round-low.fbx using Guid(8be91451b1134cf459a9b505a7958eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f6970a599fd9798193a625f408b4a06') in 0.0402861 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Casas Cidade/FBX format/window-brown-tall.fbx
+  artifactKey: Guid(38629da9d018225479da3f25b840a698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/window-brown-tall.fbx using Guid(38629da9d018225479da3f25b840a698) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f76663f3bffca3d067466af423fef274') in 0.0323845 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.428543 seconds.
+  path: Assets/Casas Cidade/FBX format/window-white-detailed.fbx
+  artifactKey: Guid(b4a6832f33d62464fb11290aac61c67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/window-white-detailed.fbx using Guid(b4a6832f33d62464fb11290aac61c67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'edfadd28da6f2364b382da647f3134bd') in 0.043419 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Casas Cidade/FBX format/window-white-round-narrow.fbx
+  artifactKey: Guid(b349f4183b644ec4e97f0af342d7d9eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/window-white-round-narrow.fbx using Guid(b349f4183b644ec4e97f0af342d7d9eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '820197fc0b4e40fecc051d33debaa4c8') in 0.0485688 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.360937 seconds.
+  path: Assets/Casas Cidade/FBX format/window-white-tall.fbx
+  artifactKey: Guid(cc3ec55c10b575d4db3568a127472f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Casas Cidade/FBX format/window-white-tall.fbx using Guid(cc3ec55c10b575d4db3568a127472f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eeb51c0aa915a7468a79df8b8796d0c4') in 0.0339603 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

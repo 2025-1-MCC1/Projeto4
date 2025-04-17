@@ -1,0 +1,543 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.38f1 (82314a941f2d) revision 8532298'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'pt' Physical Memory: 7880 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 6000.0.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker22
+-projectPath
+C:/Users/25027230/My project
+-logFile
+Logs/AssetImportWorker22.log
+-srvPort
+64929
+-job-worker-count
+9
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/25027230/My project
+C:/Users/25027230/My project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [11236]  Target information:
+
+Player connection [11236]  * "[IP] 10.1.34.73 [Port] 0 [Flags] 2 [Guid] 539989156 [EditorId] 539989156 [Version] 1048832 [Id] WindowsEditor(7,350-20) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11236]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 539989156 [EditorId] 539989156 [Version] 1048832 [Id] WindowsEditor(7,350-20) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11236]  * "[IP] 172.26.48.1 [Port] 0 [Flags] 2 [Guid] 539989156 [EditorId] 539989156 [Version] 1048832 [Id] WindowsEditor(7,350-20) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11236] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [11236] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 9.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.38f1 (82314a941f2d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 6000.0.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/25027230/My project/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 770 (ID=0x4680)
+    Vendor:   Intel
+    VRAM:     3940 MB
+    Driver:   32.0.101.6078
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56360
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer/UnityEditor.VisionOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.018055 seconds.
+- Loaded All Assemblies, in  0.630 seconds
+Native extension for LinuxStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.531 seconds
+Domain Reload Profiling: 1157ms
+	BeginReloadAssembly (232ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (94ms)
+	LoadAllAssembliesAndSetupDomain (232ms)
+		LoadAssemblies (229ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (224ms)
+			TypeCache.Refresh (221ms)
+				TypeCache.ScanAssembly (204ms)
+			BuildScriptInfoCaches (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (532ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (472ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (172ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (69ms)
+			ProcessInitializeOnLoadAttributes (152ms)
+			ProcessInitializeOnLoadMethodAttributes (74ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.156 seconds
+Refreshing native plugins compatible for Editor in 1.48 ms, found 3 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.82 ms, found 3 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.084 seconds
+Domain Reload Profiling: 2232ms
+	BeginReloadAssembly (226ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (57ms)
+	LoadAllAssembliesAndSetupDomain (801ms)
+		LoadAssemblies (613ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (325ms)
+			TypeCache.Refresh (241ms)
+				TypeCache.ScanAssembly (218ms)
+			BuildScriptInfoCaches (66ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1085ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (842ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (43ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (140ms)
+			ProcessInitializeOnLoadAttributes (527ms)
+			ProcessInitializeOnLoadMethodAttributes (118ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 273 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5991 unused Assets / (7.0 MB). Loaded Objects now: 6730.
+Memory consumption went from 192.4 MB to 185.4 MB.
+Total: 10.384700 ms (FindLiveObjects: 0.856200 ms CreateObjectMapping: 0.480000 ms MarkObjects: 5.284000 ms  DeleteObjects: 3.763200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 33866.243101 seconds.
+  path: Assets/3D Road Tiles/roadTile_001.obj
+  artifactKey: Guid(39c8e782852d7f244ad3ea0490da79a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_001.obj using Guid(39c8e782852d7f244ad3ea0490da79a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ae4cd95b1c51a4e88031ba8d112dca40') in 1.0911098 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/3D Road Tiles/roadTile_006.obj
+  artifactKey: Guid(10d4fa7e0c082b846970346d9e99e8a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_006.obj using Guid(10d4fa7e0c082b846970346d9e99e8a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10425f57f9f76d0c658d65d7f96ce1da') in 0.0364309 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.237347 seconds.
+  path: Assets/3D Road Tiles/Materials/Alternate_Dirt.mat
+  artifactKey: Guid(ee07332b9250749468257da1230cfa52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/Materials/Alternate_Dirt.mat using Guid(ee07332b9250749468257da1230cfa52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f90c8fe53c3d814e54da9e3a899a67cb') in 0.0604648 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/3D Road Tiles/Materials/Stone.mat
+  artifactKey: Guid(acebd6c89b9c24549818921f49aba5a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/Materials/Stone.mat using Guid(acebd6c89b9c24549818921f49aba5a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cff43122fc0c85d4aec8bedd4870b2fa') in 0.0157222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/3D Road Tiles/Materials/Water.mat
+  artifactKey: Guid(9809f4a3eca68134eae44bbbcb7fc4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/Materials/Water.mat using Guid(9809f4a3eca68134eae44bbbcb7fc4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '364de6a05b13f9d9192fe274a50e40fa') in 0.0156474 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/3D Road Tiles/Materials/Sand.mat
+  artifactKey: Guid(27021d32845141e4e80ecee9cd93e219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/Materials/Sand.mat using Guid(27021d32845141e4e80ecee9cd93e219) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '53b18e53a87dc4232416922cbe79f06e') in 0.0164417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/3D Road Tiles/Materials/Grass.mat
+  artifactKey: Guid(b58ef1741ee60ed4aaea6dde5cd04f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/Materials/Grass.mat using Guid(b58ef1741ee60ed4aaea6dde5cd04f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c5f7005e89cff3c81041b4c24d66d81a') in 0.0168625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.558236 seconds.
+  path: Assets/3D Road Tiles/roadTile_016.obj
+  artifactKey: Guid(43da002cf7a7131418ef0aa6847f257f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_016.obj using Guid(43da002cf7a7131418ef0aa6847f257f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '342497142e7839452ab44d992521bbe8') in 0.0421909 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031836 seconds.
+  path: Assets/3D Road Tiles/roadTile_021.obj
+  artifactKey: Guid(21cc5654222ef654d8a7b468c024eb5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_021.obj using Guid(21cc5654222ef654d8a7b468c024eb5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4843e7850521304770e654853d0fd0a5') in 0.0324863 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/3D Road Tiles/roadTile_024.obj
+  artifactKey: Guid(b534ce9b13d7bdf4f909e11669efdb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_024.obj using Guid(b534ce9b13d7bdf4f909e11669efdb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bcee342cef18b74cb5558561c0529a25') in 0.0383456 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/3D Road Tiles/roadTile_025.obj
+  artifactKey: Guid(2f029fd7f8a0d694397cf399aa925e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_025.obj using Guid(2f029fd7f8a0d694397cf399aa925e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95ff67362f2302f44e083f8ac7d75ea0') in 0.0417826 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/3D Road Tiles/roadTile_029.obj
+  artifactKey: Guid(37f32770f165e4b4eb9ed38735312cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_029.obj using Guid(37f32770f165e4b4eb9ed38735312cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '20e12f5e349c5e3bd120844a6e0667ba') in 0.0317813 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/3D Road Tiles/roadTile_027.obj
+  artifactKey: Guid(8b61d7220e83c374cb872248be962e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_027.obj using Guid(8b61d7220e83c374cb872248be962e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '62eb6e2e295348b6f54fd2bc826445b5') in 0.0517991 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/3D Road Tiles/roadTile_030.obj
+  artifactKey: Guid(21add50527265ad438ccd7a11e9d61fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_030.obj using Guid(21add50527265ad438ccd7a11e9d61fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '29102efe429aacdedfaeb5c46071f5ec') in 0.0457665 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.373250 seconds.
+  path: Assets/Materiais/Madeira 1.mat
+  artifactKey: Guid(a73586b9704261149a6d29d8a16007f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiais/Madeira 1.mat using Guid(a73586b9704261149a6d29d8a16007f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16e2adeac49a8daaa238d35f3e6597ae') in 0.0293012 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.720904 seconds.
+  path: Assets/3D Road Tiles/roadTile_031.obj
+  artifactKey: Guid(5a90237d8c52668469b3a3456cae502a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_031.obj using Guid(5a90237d8c52668469b3a3456cae502a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '52abbcf361e6cd5c5297166bead5609a') in 0.0342838 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/3D Road Tiles/roadTile_034.obj
+  artifactKey: Guid(732c1a58217e3ee4eb62137f787980d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_034.obj using Guid(732c1a58217e3ee4eb62137f787980d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d6bc587fc6434f88640d1eb473949e9') in 0.0325828 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/3D Road Tiles/roadTile_035.obj
+  artifactKey: Guid(826f4000c49ad184380196606301a625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_035.obj using Guid(826f4000c49ad184380196606301a625) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8cf8fb4fa546fe29f1d1060db64b10d7') in 0.0423918 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.406771 seconds.
+  path: Assets/3D Road Tiles/roadTile_036.obj
+  artifactKey: Guid(c69fd66ac98ac7e458b9b289bd91a74f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_036.obj using Guid(c69fd66ac98ac7e458b9b289bd91a74f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27b8cbea94b54312eb305ac4e78adb41') in 0.034031 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/3D Road Tiles/roadTile_039.obj
+  artifactKey: Guid(ca0eda3563ade7b49acb7e6c10433dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_039.obj using Guid(ca0eda3563ade7b49acb7e6c10433dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9993d1855536fe7e53fe5135ed8be8b7') in 0.038518 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/3D Road Tiles/roadTile_047.obj
+  artifactKey: Guid(e9344cc9001d469499e8a09a9d2ad61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_047.obj using Guid(e9344cc9001d469499e8a09a9d2ad61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a04b92f386917f58c0ac74c4f086afd6') in 0.0358452 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/3D Road Tiles/roadTile_045.obj
+  artifactKey: Guid(9e0e58ab82292274e93fdc47be655ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_045.obj using Guid(9e0e58ab82292274e93fdc47be655ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70588ce7754497928477d0ffcd5dc5be') in 0.0353521 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/3D Road Tiles/roadTile_065.obj
+  artifactKey: Guid(0c4f682127f228b42ae13e82e89551b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_065.obj using Guid(0c4f682127f228b42ae13e82e89551b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a40358e82a54d3b86d81157528e3f8f1') in 0.0379262 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/3D Road Tiles/roadTile_068.obj
+  artifactKey: Guid(dc3f92685e2ceac45b136a4e6133755e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_068.obj using Guid(dc3f92685e2ceac45b136a4e6133755e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7502d9457d3985d4319b2d6c32c9462f') in 0.0356557 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/3D Road Tiles/roadTile_053.obj
+  artifactKey: Guid(5a61be048484f6048a7340ab9d3ec1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_053.obj using Guid(5a61be048484f6048a7340ab9d3ec1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8b02710ee64533c24f31d181e521caf1') in 0.0342812 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/3D Road Tiles/roadTile_061.obj
+  artifactKey: Guid(6f82b05a99e9bd0499bfcd05458d46ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_061.obj using Guid(6f82b05a99e9bd0499bfcd05458d46ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f951410986644ab3217eee7ea17d3f50') in 0.0345334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/3D Road Tiles/roadTile_044.obj
+  artifactKey: Guid(c04328bd6c6bd5542a72faa67b7e3e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_044.obj using Guid(c04328bd6c6bd5542a72faa67b7e3e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ad81b479e6b5aaa5c0695bab4cc9379e') in 0.0397139 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/3D Road Tiles/roadTile_054.obj
+  artifactKey: Guid(9c6df83e7d76dbf4286f7084e7f4e5ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_054.obj using Guid(9c6df83e7d76dbf4286f7084e7f4e5ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af1c15fe6d8bd12bb21933b682e96273') in 0.0424704 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/3D Road Tiles/roadTile_070.obj
+  artifactKey: Guid(565c468e936884e479d8bdfb5611f651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_070.obj using Guid(565c468e936884e479d8bdfb5611f651) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8caa3f11b1b8732324e8c16ef378d116') in 0.039864 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/3D Road Tiles/roadTile_060.obj
+  artifactKey: Guid(0169c2739920ed944b3233fa45fcc755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_060.obj using Guid(0169c2739920ed944b3233fa45fcc755) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '34469a486047d044b4f5c3174f59fd60') in 0.0482608 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/3D Road Tiles/roadTile_073.obj
+  artifactKey: Guid(072e6bd43f36231418217e7e053766a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_073.obj using Guid(072e6bd43f36231418217e7e053766a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8fd1c12c24fd5e023ca7dee7291934da') in 0.0390971 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/3D Road Tiles/roadTile_056.obj
+  artifactKey: Guid(08f69a4ebae4a894480048b881865c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_056.obj using Guid(08f69a4ebae4a894480048b881865c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a6d113662fe413c603be3813752812ae') in 0.0457663 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/3D Road Tiles/roadTile_050.obj
+  artifactKey: Guid(f0f410b2c4437cd459d8d01fbd540a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_050.obj using Guid(f0f410b2c4437cd459d8d01fbd540a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e4c295ea6f116dc11e3f73405ca9d1f5') in 0.0483528 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/3D Road Tiles/roadTile_048.obj
+  artifactKey: Guid(32576ad4f93a0a940911fb55c93c4012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_048.obj using Guid(32576ad4f93a0a940911fb55c93c4012) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '898f1dce0444fec41f0fd55020ec6ca7') in 0.0448847 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/3D Road Tiles/roadTile_066.obj
+  artifactKey: Guid(5415c0609d249d546a27d4a4b4ceca09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_066.obj using Guid(5415c0609d249d546a27d4a4b4ceca09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8f4f1c565403426f478573d76b0cf65b') in 0.0376788 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.673477 seconds.
+  path: Assets/3D Road Tiles/roadTile_076.obj
+  artifactKey: Guid(4cea9391e7b5cd343b399613c3c61e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_076.obj using Guid(4cea9391e7b5cd343b399613c3c61e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dced73714aec5d87b898afca6f2c257f') in 0.0436528 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.761711 seconds.
+  path: Assets/3D Road Tiles/roadTile_081.obj
+  artifactKey: Guid(8520fb57e0a09f74b86324e408758bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_081.obj using Guid(8520fb57e0a09f74b86324e408758bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e5048d013d7a6fa0292e7044a4f834e0') in 0.0435712 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.477697 seconds.
+  path: Assets/3D Road Tiles/roadTile_086.obj
+  artifactKey: Guid(d6176839e40a3584183decbef1d04fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_086.obj using Guid(d6176839e40a3584183decbef1d04fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '05f7018e101c0691a1a872c9457b7b54') in 0.0478411 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/3D Road Tiles/roadTile_095.obj
+  artifactKey: Guid(4ddff2101a29ec842943ca6442f759b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_095.obj using Guid(4ddff2101a29ec842943ca6442f759b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '216f4d1280df9d187e27787118313c29') in 0.0438766 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/3D Road Tiles/roadTile_091.obj
+  artifactKey: Guid(90c6fa207b56dc243a6b01c975a7b027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_091.obj using Guid(90c6fa207b56dc243a6b01c975a7b027) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6167faecb51786f2ac686249e375863c') in 0.0354634 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/3D Road Tiles/roadTile_098.obj
+  artifactKey: Guid(c087dd3c8b8426f47aaeda01b716f661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Road Tiles/roadTile_098.obj using Guid(c087dd3c8b8426f47aaeda01b716f661) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8f74a594b1838236329672945ab9aeb') in 0.0407838 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
