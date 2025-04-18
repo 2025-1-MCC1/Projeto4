@@ -8,7 +8,7 @@ using System.Reflection;
 
 [CustomEditor(typeof(Readme))]
 [InitializeOnLoad]
-public class ReadmeEditor : Editor
+public class ReadmeEditor2 : Editor
 {
     static string s_ShowedReadmeSessionStateName = "ReadmeEditor.showedReadme";
     
@@ -16,7 +16,7 @@ public class ReadmeEditor : Editor
 
     const float k_Space = 16f;
 
-    static ReadmeEditor()
+    static ReadmeEditor2()
     {
         EditorApplication.delayCall += SelectReadmeAutomatically;
     }
