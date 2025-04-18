@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|c:\\users\\enzo\\documents\\github\\projeto4\\beefed up!\\assets\\assets\\assets\\tutorialinfo\\scripts\\readme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\assets\\tutorialinfo\\scripts\\readme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|c:\\users\\enzo\\documents\\github\\projeto4\\beefed up!\\assets\\tutorialinfo\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:21:48.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme2.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\Assets\\Assets\\TutorialInfo\\Scripts\\Readme2.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Assets\\TutorialInfo\\Scripts\\Readme2.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\Assets\\Assets\\TutorialInfo\\Scripts\\Readme2.cs",
+              "RelativeToolTip": "Assets\\Assets\\Assets\\TutorialInfo\\Scripts\\Readme2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:21:18.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
