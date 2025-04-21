@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Enzo\\Desktop\\Projeto4-main\\Beefed Up!\\",
+  "WorkspaceRootPath": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|c:\\users\\enzo\\desktop\\projeto4-main\\beefed up!\\assets\\scripts\\movementplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|c:\\users\\enzo\\desktop\\projeto4-main\\beefed up!\\assets\\denysalmaral\\citypeople-free\\scripts\\citypeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\denysalmaral\\citypeople-free\\scripts\\citypeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|C:\\Users\\Enzo\\Desktop\\Projeto4-main\\Beefed Up!\\assets\\assets\\assets\\tutorialinfo\\scripts\\readme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\assets\\tutorialinfo\\scripts\\readme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|C:\\Users\\Enzo\\Desktop\\Projeto4-main\\Beefed Up!\\assets\\tutorialinfo\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\assets\\scripts\\movimenta\u00E7lao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimenta\u00E7lao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,52 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MovementPlayer.cs",
-              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\Projeto4-main\\Beefed Up!\\Assets\\Scripts\\MovementPlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementPlayer.cs",
-              "ToolTip": "C:\\Users\\Enzo\\Desktop\\Projeto4-main\\Beefed Up!\\Assets\\Scripts\\MovementPlayer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MovementPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Title": "Movimenta\u00E7lao.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\Scripts\\Movimenta\u00E7lao.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movimenta\u00E7lao.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\Scripts\\Movimenta\u00E7lao.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movimenta\u00E7lao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T13:45:24.675Z",
+              "WhenOpened": "2025-04-21T20:54:51.975Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CityPeople.cs",
-              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\Projeto4-main\\Beefed Up!\\Assets\\DenysAlmaral\\CityPeople-FREE\\Scripts\\CityPeople.cs",
-              "RelativeDocumentMoniker": "Assets\\DenysAlmaral\\CityPeople-FREE\\Scripts\\CityPeople.cs",
-              "ToolTip": "C:\\Users\\Enzo\\Desktop\\Projeto4-main\\Beefed Up!\\Assets\\DenysAlmaral\\CityPeople-FREE\\Scripts\\CityPeople.cs",
-              "RelativeToolTip": "Assets\\DenysAlmaral\\CityPeople-FREE\\Scripts\\CityPeople.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T13:29:14.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Readme.cs",
-              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\Projeto4-main\\Beefed Up!\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
-              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Readme.cs",
-              "ToolTip": "C:\\Users\\Enzo\\Desktop\\Projeto4-main\\Beefed Up!\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
-              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Readme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:21:48.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Readme2.cs",
-              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\Projeto4-main\\Beefed Up!\\Assets\\Assets\\Assets\\TutorialInfo\\Scripts\\Readme2.cs",
-              "RelativeDocumentMoniker": "Assets\\Assets\\Assets\\TutorialInfo\\Scripts\\Readme2.cs",
-              "ToolTip": "C:\\Users\\Enzo\\Desktop\\Projeto4-main\\Beefed Up!\\Assets\\Assets\\Assets\\TutorialInfo\\Scripts\\Readme2.cs",
-              "RelativeToolTip": "Assets\\Assets\\Assets\\TutorialInfo\\Scripts\\Readme2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:21:18.414Z"
             }
           ]
         }
