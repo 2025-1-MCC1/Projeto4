@@ -1,42 +1,117 @@
-# Projeto4
-Projeto 4
+```sh
+Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
 
-Beefed Up!!
+Vide tutoriais do PI.
+```
 
-Sumário
-1- Introdução
-2- Ideia inicial do jogo
-3- Mudanças feitas
-—------------------------------------------------------------------------------------------------------------------------
-Introdução
-Beefed Up!! consiste em ser um jogo, onde um fazendeiro sem perceber coloca um tipo de
-veneno no pasta e então os bois dele começam a ter várias mutações genéticas e
-começam a se transformar em monstros e destroem tudo na cidade e o objetivo do Jogador
-será acabar com todos esses monstros e reconstruir a cidade deixando ela melhor para os
-habitantes.
-—------------------------------------------------------------------------------------------------------------------------
-Ideia inicial
-No começo pensamos em criar um jogo bastante parecido com The Sims, para não fugir
-muito do objetivo do projeto de cidades inteligentes, mas quisemos inovar e dar mais ação
-para o nosso jogo, onde o jogador teria que passar por várias dificuldades para poder
-reconstruir sua cidade e transformá-la em uma cidade inteligente.
-—------------------------------------------------------------------------------------------------------------------------
-Mudanças
-Terreno: Foi feito pela unity a cidade e fomos juntando diversos assets para construir os
-prédios e os objetos.
+# FECAP - Fundação de Comércio Álvares Penteado
 
-Personagens: Por enquanto só configuramos o personagem principal que seria o
-fazendeiro, também tem os cidadão na cidade, todos eles contém movimentos únicos de
-cada um, o monstro está em um asset baixado dentro do projeto, mas ainda não colocamos
-ele dentro do mapa.
+<p align="center">
+<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+</p>
 
-Scripts: A maioria dos scripts foi utilizando um pouco das aulas e assistindo alguns vídeos
-no Youtube, por enquanto só tem os scripts de movimentação e interação com um NPC (a
-interação com o NPC não funcionou)
+# Nome do Projeto
 
-Animação: Utilizamos animações de um asset e colocamos no animator do próprio unity
-para os personagens não ficarem apenas parados
+## Nome do Grupo
 
-Camera: A câmera principal sempre será voltada ao jogador em 3º pessoa, tem como
-mover ela com o mouse, utilizamos o Cinemachine do unity para conseguir fazer ela girar
-em torno do personagem
+## Integrantes: <a href="https://www.linkedin.com/in/enzohenrique777/">Enzo Henrique</a>, <a href="https://www.linkedin.com/in/victorbarq/">Enzo Sakita</a>, <a href="https://www.linkedin.com/in/victorbarq/">Katie Prado</a>.
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+
+## Descrição
+
+<p align="center">
+<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+</p>
+
+
+De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+<br><br>
+Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+<br><br>
+May the force be with you!
+<br><br>
+
+## 🛠 Estrutura de pastas
+
+-Raiz<br>
+|<br>
+|-->documentos<br>
+  &emsp;|-->antigos<br>
+  &emsp;|Documentação.docx<br>
+|-->executáveis<br>
+  &emsp;|-->windows<br>
+  &emsp;|-->android<br>
+  &emsp;|-->HTML<br>
+|-->imagens<br>
+|-->src<br>
+  &emsp;|-->Backend<br>
+  &emsp;|-->Frontend<br>
+|readme.md<br>
+
+A pasta raiz contem dois arquivos que devem ser alterados:
+
+<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
+
+Há também 4 pastas que seguem da seguinte forma:
+
+<b>documentos</b>: Toda a documentação estará nesta pasta.
+
+<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
+
+<b>imagens</b>: Imagens do sistema
+
+<b>src</b>: Pasta que contém o código fonte.
+
+## 🛠 Instalação
+
+<b>Android:</b>
+
+Faça o Download do JOGO.apk no seu celular.
+Execute o APK e siga as instruções de seu telefone.
+
+```sh
+Coloque código do prompt de comnando se for necessário
+```
+
+<b>Windows:</b>
+
+Não há instalação! Apenas executável!
+Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+
+```sh
+Coloque código do prompt de comnando se for necessário
+```
+
+<b>HTML:</b>
+
+Não há instalação!
+Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+
+## 💻 Configuração para Desenvolvimento
+
+Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+
+Para abrir este projeto você necessita das seguintes ferramentas:
+
+-<a href="https://godotengine.org/download">GODOT</a>
+
+```sh
+make install
+npm test
+Coloque código do prompt de comnando se for necessário
+```
+
+## 📋 Licença/License
+Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+
+## 🎓 Referências
+
+Aqui estão as referências usadas no projeto.
+
+1. <https://github.com/iuricode/readme-template>
+2. <https://github.com/gabrieldejesus/readme-model>
+3. <https://chooser-beta.creativecommons.org/>
+4. <https://freesound.org/>
+5. <https://www.toptal.com/developers/gitignore>
+6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
