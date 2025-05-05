@@ -15,7 +15,7 @@ Vide tutoriais do PI.
 ## Nome do Grupo
 
 ## Integrantes: <a href="https://www.linkedin.com/in/enzohenrique777/">Enzo Henrique</a>, <a href="https://www.linkedin.com/in/victorbarq/">Enzo Sakita</a>, <a href="https://www.linkedin.com/in/victorbarq/">Katie Prado</a>.
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Quiroz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
 ## Descrição
 
