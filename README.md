@@ -20,7 +20,7 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-<img src="beffed2.jpg" alt="BEEFED UP!!" border="0">
+<img src="https://ci3.googleusercontent.com/mail-img-att/AGAZnRp9WW9RJY-73QMkVWovhDGPE6x0VXHwcdjRUh9o2MfPm4WwustTTsaNLOQ6hvb0DRAxmH773ZbT57l--4OdzvLnVzEpiPl1mnw0_EDkSBSYnlZDcIagn8Ct8eYhXAleB_4iHmI2MnDd0lJ_UNRN1mT9wOXpmf1rt5bOoD791jTyN7Yeg8Y9ONfYUx0MhEbFP4PyaCEnbD0my16sMvcEfm4--xTtSZSw81lehRmeyUlBZg2YLcmTSO-NV9SOKHwQUfN26-W-10Lzykrb9xV4DekSIYohGCjajTafAPSXKk2V416te3FGHzTJOYQHX5t26LOCfGERrSj_hzqfUjlewM5lPfkSpFdk_mYPkSg1TEIYy48vE-WaPScpEF5ihO2RSHPzKGwdjt4ke9BDptHoDOWryLEtKbOrHuk3dyaV7h_abyHrIgmZxNkKkLRDUJ64SdW-ZFB2ldFRHsDSNbPb2y7DvpBtQdgMRYpW5D04IYv1TGGlo6pl6d1hhh3Nepo-EOezbQu0cUA1eDbvEheuwpJEfqciVfHKcx28PGwnwp5Wi2C9n-wU_lEwIJkeA6Irga50Ai0AC5YguhYjOppEEwkI3pb96OJpw0z0Ha1oTtdb2xKbNRMBm8FEkJSxtj_V5ALFYJji6to51jGkAng1V_JDV_YDCIB7j4IssJP91dty7lpEXwvIv5hQqBT02RKJIN8jG-2os6n4cdw9fQkAtG99qF9DEze41PJbKDGR8ekp8CCMc16W5yE_PELPr9LePL0Y86hZyBoxH_Ibne0NHwqmbnLHGmXMAuGrA-xZiOO_UALpRSqg6j8yTQtUFKhTr3G1ta8L-jwOqmZc4UFiHv61GPSrrtPj3e0NPO2oqByWzbwqQjvMfeItes5ZNUezc6hqR2SqJWpBxF96uu6Vp0EQRw4IobMnBDeP1_K-Hug_Ccu3L3bcGKKaAk8jcolxXKX_tvm3d_qTCzZlNH2itnp73Q_DAOcyEokNxPMCrGFl6_mUaA_h9VzJi6as9kvOACaD2FQXbkTicZ-KOgmFXBeBH34=s0-l75-ft" alt="BEEFED UP!!" border="0">
   Game by <a href="http://www.nyphotographic.com/">FullStack Vision</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
