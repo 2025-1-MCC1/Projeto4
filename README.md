@@ -25,11 +25,14 @@ Vide tutoriais do PI.
 </p>
 
 
-AAAAAAA
+Beefed Up!! é um jogo de ação com uma pitada de humor e uma história inusitada de vingança, mutações genéticas e reconstrução!
+
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Tudo começou em um pacato campo onde Victor, um fazendeiro dedicado, cuidava com orgulho de seu pasto repleto de bois saudáveis. Mas a paz foi interrompida quando Luis, um cientista invejoso, decidiu criar uma mutação genética em segredo. Com um plano maluco, ele liberou esses bois mutantes no pasto de Victor, o resultado foi um desastre: os bois se tornaram agressivos, dizimaram os dois homens e partiram em direção à cidade, destruindo tudo em seu caminho.
+
+Mas nem tudo está perdido...
 <br><br>
-May the force be with you!
+Você joga como o filho de Victor, o último herdeiro da fazenda. Cabe a você enfrentar os bois mutantes, salvar o que restou da cidade e reconstruí-la de forma mais inteligente e sustentável.
 <br><br>
 
 ## 🛠 Estrutura de pastas
@@ -112,6 +115,6 @@ Aqui estão as referências usadas no projeto.
 1. <https://github.com/iuricode/readme-template>
 2. <https://github.com/gabrieldejesus/readme-model>
 3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
+4. <https://freetouse.com/music>
 5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+6. Músicas por: <a href="https://freetouse.com/music/search/overtaken/"> Epic Spectrum </a> Copyright © 2025 Free To Use ApS, Denmark
