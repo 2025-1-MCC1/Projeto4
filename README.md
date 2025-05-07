@@ -21,7 +21,7 @@ Vide tutoriais do PI.
 
 <p align="center">
 <img src="beffed2.jpg" alt="BEEFED UP!!" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  Game by <a href="http://www.nyphotographic.com/">FullStack Vision</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
