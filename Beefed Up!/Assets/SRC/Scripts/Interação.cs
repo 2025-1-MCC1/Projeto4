@@ -17,21 +17,57 @@ public class Interação : MonoBehaviour
 
     private void OnEnable()
     {
-        interactionInputAction.action.performed += Interact;
+        //interactionInputAction.action.performed += Interact;
     }
 
     private void OnDisable()
     {
-        interactionInputAction.action.performed -= Interact;
+        //interactionInputAction.action.performed -= Interact;
     }
-    private void Interact(InputAction.CallbackContext obj)
+    //private void Interact(InputAction.CallbackContext obj)
+    //{
+    //    //Vector3 interactionPosition = InteractionSource.position + Vector3.up;
+    //    InteractionSource.position += new Vector3(0, 1f, 0);
+    //    Ray playerAim = new Ray(InteractionSource.position, InteractionSource.forward);
+    //
+    //    // Desenha o raio na aba Scene para visualização
+    //    Debug.DrawRay(playerAim.origin, playerAim.direction * InteractionRange, Color.red, 1f);
+    //
+    //    Debug.Log("lançando raio");
+    //
+    //    if (Physics.Raycast(playerAim, out RaycastHit hitInfo, InteractionRange))
+    //    {
+    //        
+    //        if (hitInfo.collider.TryGetComponent(out IInteractable interactableObj))
+    //        {
+    //            interactableObj.Interact();
+    //        }
+    //    }
+    //}
+
+    private void Update()
     {
-        Ray playerAim = new Ray(InteractionSource.position, InteractionSource.forward);
-        if(Physics.Raycast(playerAim, out RaycastHit hitInfo, InteractionRange))
+
+
+        if (Input.GetKeyDown(KeyCode.E))
         {
-            if (hitInfo.collider.TryGetComponent(out IInteractable interactableObj))
+            Vector3 interactionPosition = InteractionSource.position + Vector3.up * 2.5f; // mirar o npc com o player (escolher player no inspector e alterar p range do raio)
+            //Vector3 interactionPosition = InteractionSource.position; // mirar o npc com a FreeLookCam (escolher player no inspector e alterar p range do raio)
+            //InteractionSource.position += new Vector3(0, 1f, 0);
+            Ray playerAim = new Ray(interactionPosition, InteractionSource.forward);
+
+            // Desenha o raio na aba Scene para visualização
+            Debug.DrawRay(playerAim.origin, playerAim.direction * InteractionRange, Color.red, 1f);
+
+            //Debug.Log("lançando raio");
+
+            if (Physics.Raycast(playerAim, out RaycastHit hitInfo, InteractionRange))
             {
-                interactableObj.Interact();
+
+                if (hitInfo.collider.TryGetComponent(out IInteractable interactableObj))
+                {
+                    interactableObj.Interact();
+                }
             }
         }
     }
