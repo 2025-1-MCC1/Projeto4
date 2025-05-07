@@ -112,9 +112,11 @@ Beefed Up!! © 2025 by Enzo Sakita, Katie Prado, Enzo Henrique is licensed under
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
+1. <https://play.google.com/store/apps/details?id=com.playrix.gardenscapes&hl=pt_BR&pli=1>
+2. <https://www.youtube.com/watch?v=vnSO0zc9jzg>
+3. <https://www.youtube.com/watch?v=qW4p2Dez_Hs>
 4. <https://freetouse.com/music>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freetouse.com/music/search/overtaken/"> Epic Spectrum </a> Copyright © 2025 Free To Use ApS, Denmark
+5. <https://www.youtube.com/watch?v=Mou0lMCK_Rw>
+6. <https://www.youtube.com/results?search_query=Volume+slider+in+unity>
+7. Músicas por: <a href="https://freetouse.com/music/search/overtaken/"> Epic Spectrum </a> Copyright © 2025 Free To Use ApS, Denmark
+8. <https://www.youtube.com/watch?v=wbY9L0zsV2w>
