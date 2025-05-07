@@ -14,7 +14,7 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo: FullStack Vision
 
-## Integrantes: <a href="https://www.linkedin.com/in/enzohenrique777/">Enzo Henrique</a>, <a href="https://www.linkedin.com/in/victorbarq/">Enzo Sakita</a>, <a href="https://www.linkedin.com/in/victorbarq/">Katie Prado</a>.
+## Integrantes: <a href="https://www.linkedin.com/in/enzohenrique777/">Enzo Henrique</a>, <a href="https://github.com/Enzooouu12">Enzo Sakita</a>, <a href="https://www.linkedin.com/in/katie-prado-388129312/">Katie Prado</a>.
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Joyce</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luís Pires</a>
 
 ## Descrição
