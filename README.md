@@ -10,9 +10,9 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Nome do Projeto: Beefed Up!!
 
-## Nome do Grupo
+## Nome do Grupo: FullStack Vision
 
 ## Integrantes: <a href="https://www.linkedin.com/in/enzohenrique777/">Enzo Henrique</a>, <a href="https://www.linkedin.com/in/victorbarq/">Enzo Sakita</a>, <a href="https://www.linkedin.com/in/victorbarq/">Katie Prado</a>.
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Joyce</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luís Pires</a>
@@ -103,7 +103,7 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+Beefed Up!! © 2025 by Enzo Sakita, Katie Prado, Enzo Henrique is licensed under CC BY-SA 4.0
 
 ## 🎓 Referências
 
