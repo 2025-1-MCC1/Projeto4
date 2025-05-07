@@ -1,0 +1,741 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.38f1 (82314a941f2d) revision 8532298'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'pt' Physical Memory: 7880 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 6000.0.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker10
+-projectPath
+C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
+-logFile
+Logs/AssetImportWorker10.log
+-srvPort
+59671
+-job-worker-count
+9
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
+C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [9476]  Target information:
+
+Player connection [9476]  * "[IP] 10.1.34.132 [Port] 0 [Flags] 2 [Guid] 2431703770 [EditorId] 2431703770 [Version] 1048832 [Id] WindowsEditor(7,350-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9476]  * "[IP] 169.254.248.98 [Port] 0 [Flags] 2 [Guid] 2431703770 [EditorId] 2431703770 [Version] 1048832 [Id] WindowsEditor(7,350-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9476]  * "[IP] 172.23.192.1 [Port] 0 [Flags] 2 [Guid] 2431703770 [EditorId] 2431703770 [Version] 1048832 [Id] WindowsEditor(7,350-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9476] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [9476] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.38f1 (82314a941f2d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 6000.0.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 770 (ID=0x4680)
+    Vendor:   Intel
+    VRAM:     3940 MB
+    Driver:   32.0.101.6078
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56128
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer/UnityEditor.VisionOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.013702 seconds.
+- Loaded All Assemblies, in  0.599 seconds
+Native extension for LinuxStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.547 seconds
+Domain Reload Profiling: 1142ms
+	BeginReloadAssembly (216ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (81ms)
+	LoadAllAssembliesAndSetupDomain (231ms)
+		LoadAssemblies (214ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (224ms)
+			TypeCache.Refresh (222ms)
+				TypeCache.ScanAssembly (204ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (548ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (484ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (165ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (74ms)
+			ProcessInitializeOnLoadAttributes (162ms)
+			ProcessInitializeOnLoadMethodAttributes (78ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.342 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.61 ms, found 3 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Refreshing native plugins compatible for Editor in 11.05 ms, found 3 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.582 seconds
+Domain Reload Profiling: 3920ms
+	BeginReloadAssembly (238ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (57ms)
+	LoadAllAssembliesAndSetupDomain (1976ms)
+		LoadAssemblies (1087ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1026ms)
+			TypeCache.Refresh (844ms)
+				TypeCache.ScanAssembly (471ms)
+			BuildScriptInfoCaches (147ms)
+			ResolveRequiredComponents (25ms)
+	FinalizeReload (1583ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1319ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (52ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (191ms)
+			ProcessInitializeOnLoadAttributes (892ms)
+			ProcessInitializeOnLoadMethodAttributes (165ms)
+			AfterProcessingInitializeOnLoad (13ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 3.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 289 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6403 unused Assets / (2.7 MB). Loaded Objects now: 7208.
+Memory consumption went from 200.6 MB to 197.9 MB.
+Total: 18.862500 ms (FindLiveObjects: 2.972100 ms CreateObjectMapping: 2.586800 ms MarkObjects: 8.027500 ms  DeleteObjects: 5.273300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 33582.059025 seconds.
+  path: Assets/SRC/Assets Baixados/Low Poly Simple Urban City 3D Asset Pack/Models/Props/Other/Tree_1.fbx
+  artifactKey: Guid(cd1633d99a19c1f44b2156aaa6784683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Low Poly Simple Urban City 3D Asset Pack/Models/Props/Other/Tree_1.fbx using Guid(cd1633d99a19c1f44b2156aaa6784683) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6552fce397f734119d7fc11ba25afbbe') in 1.0045474 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.223505 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Prefabs/z_dummyProps/building_block_C.prefab
+  artifactKey: Guid(9680aae34c997774a91acff174a88b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Prefabs/z_dummyProps/building_block_C.prefab using Guid(9680aae34c997774a91acff174a88b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '735180a25466d878a1e7ed13a8a6ca39') in 0.0313118 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Prefabs/z_dummyProps/dprop_chair.prefab
+  artifactKey: Guid(32e5504a73c63954b948e9947e5b9d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Prefabs/z_dummyProps/dprop_chair.prefab using Guid(32e5504a73c63954b948e9947e5b9d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8cd1a15f2c3724c41e9627631d1b18de') in 0.0189388 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.623452 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Forward.fbx
+  artifactKey: Guid(05ab35d27bb28ad49bc9c2b098b821ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Forward.fbx using Guid(05ab35d27bb28ad49bc9c2b098b821ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '825c571353f8198fe7f650ecde74d7ba') in 0.0110372 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_ForwardRight.fbx
+  artifactKey: Guid(a8265a611bc2c6b439b6c31f7c59c358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_ForwardRight.fbx using Guid(a8265a611bc2c6b439b6c31f7c59c358) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3fc5e651bc1441282c842a15f38480db') in 0.0095091 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160102 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Right.fbx
+  artifactKey: Guid(2badc2ceb85e7dc4183cea51a62d1379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Right.fbx using Guid(2badc2ceb85e7dc4183cea51a62d1379) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '94953b55b94b91eab7603df544c602c9') in 0.0084789 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001297 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_ForwardLeft.fbx
+  artifactKey: Guid(7d72514b5071ccb46ac02f8e39961eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_ForwardLeft.fbx using Guid(7d72514b5071ccb46ac02f8e39961eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5cd1d1be57fab2051439dbac488c9f67') in 0.0076197 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.192715 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Social/Conversation/HumanF@Talk01.fbx
+  artifactKey: Guid(ef7fc1c2505f93948addc245824a58b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Social/Conversation/HumanF@Talk01.fbx using Guid(ef7fc1c2505f93948addc245824a58b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '96d2a49627098704b235fb255cc7791f') in 0.0101162 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Right [RM].fbx
+  artifactKey: Guid(2ed6dc6d4b1abd94795f5055763eaabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Right [RM].fbx using Guid(2ed6dc6d4b1abd94795f5055763eaabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fa4b40273ccd1b3d83e9c916498bde70') in 0.0107018 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.334902 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_BackwardLeft [RM].fbx
+  artifactKey: Guid(32a22e7e9a5ca8347bd2c192ab3af821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_BackwardLeft [RM].fbx using Guid(32a22e7e9a5ca8347bd2c192ab3af821) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '35074e6b86477309ab4e58dec66617aa') in 0.0089179 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Forward [RM].fbx
+  artifactKey: Guid(ba4b29849962c4449b8058ef24b1f028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Forward [RM].fbx using Guid(ba4b29849962c4449b8058ef24b1f028) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f3c73855d8ba4b3b40e20b68180c471a') in 0.0088647 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.172257 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_ForwardRight [RM].fbx
+  artifactKey: Guid(0a08d205231ed564d97c4e32af47f926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_ForwardRight [RM].fbx using Guid(0a08d205231ed564d97c4e32af47f926) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8838e7634572b83b2f5f3d051ce292e8') in 0.0080734 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Right [RM].fbx
+  artifactKey: Guid(6db4b1026ab60f8408ec34bbf311f777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Right [RM].fbx using Guid(6db4b1026ab60f8408ec34bbf311f777) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ff0eef32dd866ee53b4190a42fca272') in 0.0091503 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.119167 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle02.fbx
+  artifactKey: Guid(9508ccae6dd32b54cb61bd81eda00380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle02.fbx using Guid(9508ccae6dd32b54cb61bd81eda00380) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6c357f1bef578563c5653fccce27fb0b') in 0.0097786 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Backward.fbx
+  artifactKey: Guid(292090fc357178941bcfe32cff4dea3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Backward.fbx using Guid(292090fc357178941bcfe32cff4dea3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f99bdb15894969d9f1153ee6d84e552b') in 0.0083295 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.121066 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_BackwardRight.fbx
+  artifactKey: Guid(7066c7da905f5d448ba84659f541cefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_BackwardRight.fbx using Guid(7066c7da905f5d448ba84659f541cefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7fb64aa1f2686a4783cb4e30a37f15d2') in 0.0078685 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.226988 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Right.fbx
+  artifactKey: Guid(bf1ae9d142e46c44f9f84cb41f729eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Right.fbx using Guid(bf1ae9d142e46c44f9f84cb41f729eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b2b29c91a6aea572e2ee1f5adde15a6') in 0.0088821 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_Forward.fbx
+  artifactKey: Guid(357a014fc50a6ae4aa9ea8347010fb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_Forward.fbx using Guid(357a014fc50a6ae4aa9ea8347010fb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '015a01db26c200a256c6ab105a7e2658') in 0.0077409 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132204 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Social/Conversation/HumanM@Talk01.fbx
+  artifactKey: Guid(5277e5180e302184fb73653674a14c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Social/Conversation/HumanM@Talk01.fbx using Guid(5277e5180e302184fb73653674a14c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '869e0f809b0871128dddc935bc2504de') in 0.0099122 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Left [RM].fbx
+  artifactKey: Guid(19d4cab1f1a36f44db3b80478afd3cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Left [RM].fbx using Guid(19d4cab1f1a36f44db3b80478afd3cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d90b47a5c553d3913814c9151e1629b') in 0.0083792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.139744 seconds.
+  path: Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_BackwardLeft [RM].fbx
+  artifactKey: Guid(04dbe06c53dc3b246bc83f0803e3b71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_BackwardLeft [RM].fbx using Guid(04dbe06c53dc3b246bc83f0803e3b71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '301e3f2cb4b29b43e89ea6f99fdc3c26') in 0.0098545 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.839198 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Models/Vehicle_Taxi_separate.fbx
+  artifactKey: Guid(76eea54e4cf71bf4dac0e3ef48ee32b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Models/Vehicle_Taxi_separate.fbx using Guid(76eea54e4cf71bf4dac0e3ef48ee32b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '992ae2318f5085d1d3513eeac41b3aba') in 0.1285201 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 321.938501 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s8.mat
+  artifactKey: Guid(9b60aefc9654bf242a2d750f05757cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s8.mat using Guid(9b60aefc9654bf242a2d750f05757cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11ab28957e8b0b9578febe6b29070f20') in 0.0225678 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s13.mat
+  artifactKey: Guid(02cbbe825fdd71a4a9158ac61c12851a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s13.mat using Guid(02cbbe825fdd71a4a9158ac61c12851a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '870e7f04b158482d6b4e959c5cc499b8') in 0.019773 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s24.mat
+  artifactKey: Guid(98a2156037e2d484e9197acd5488734e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s24.mat using Guid(98a2156037e2d484e9197acd5488734e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f80bba954b3cf127d0ba2fb4b4cad6ba') in 0.0178024 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s22.mat
+  artifactKey: Guid(ffef4298e6f134f488ae2df5b5032454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s22.mat using Guid(ffef4298e6f134f488ae2df5b5032454) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9dd7dc335d59c412f9bc0ffc250b9dcf') in 0.0163868 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s21.mat
+  artifactKey: Guid(3cda4225e521fd9419bf97dc1205c59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s21.mat using Guid(3cda4225e521fd9419bf97dc1205c59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f3917b1d51ef943e11c6c998c565aff') in 0.0158259 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s15.mat
+  artifactKey: Guid(5f1f813d6374c8942a690118d2c0c070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s15.mat using Guid(5f1f813d6374c8942a690118d2c0c070) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e9005d54982ce9ae5315e5ea2d50eea') in 0.0172993 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s14.mat
+  artifactKey: Guid(8e31d621a5287f34eadf2de69c322457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s14.mat using Guid(8e31d621a5287f34eadf2de69c322457) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd20a4534658420184dbb9c661e5a5d99') in 0.0161953 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s17.mat
+  artifactKey: Guid(f308cbced2742374193e414b55e6a073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s17.mat using Guid(f308cbced2742374193e414b55e6a073) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '15520619e2a38d59c519afee91f6b5ce') in 0.0176077 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s29.mat
+  artifactKey: Guid(93a9f5f479c1d7f4480cded9ad4caacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s29.mat using Guid(93a9f5f479c1d7f4480cded9ad4caacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aee960c815c3939344a4c8d0b83db485') in 0.0167475 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s23.mat
+  artifactKey: Guid(967fdf9910e5cc74aae73bc300c691df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s23.mat using Guid(967fdf9910e5cc74aae73bc300c691df) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4fb71483e78455f06a016a3ef57ca6ab') in 0.0150507 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s11.mat
+  artifactKey: Guid(a7f5d31735ea3364eb13ebcddfa6fa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s11.mat using Guid(a7f5d31735ea3364eb13ebcddfa6fa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe2aa4c38b204fd2091032ae0c415e68') in 0.0156967 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s10.mat
+  artifactKey: Guid(4039c59d1f427ea46898e48023494d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s10.mat using Guid(4039c59d1f427ea46898e48023494d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a97e6a1c4a29891524445333a9dff1a') in 0.0172873 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.443551 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/disaProps.mat
+  artifactKey: Guid(723ed4c8a00fd5546bf0bb71d745a59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/disaProps.mat using Guid(723ed4c8a00fd5546bf0bb71d745a59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '996264bfd52fd1e333838b5bd1ae2ade') in 0.02455 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s6.mat
+  artifactKey: Guid(214522dcab1b87643901ca3e37cb7f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s6.mat using Guid(214522dcab1b87643901ca3e37cb7f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d10713741a8bf6ca7902f84c2c265cc') in 0.0184523 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s5.mat
+  artifactKey: Guid(fad8ac2b16585714b9d210f49e9cd5c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s5.mat using Guid(fad8ac2b16585714b9d210f49e9cd5c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f2ae384f0df8f1202d3bb1ca2559b39') in 0.016286 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s4.mat
+  artifactKey: Guid(a53b5cf10715ebd49b6eb951b3b62c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s4.mat using Guid(a53b5cf10715ebd49b6eb951b3b62c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03ca485299262e5332992d7390843617') in 0.0171603 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/dummyProp_default.mat
+  artifactKey: Guid(ab05773699cff7d47aed04fdd9d09f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/dummyProp_default.mat using Guid(ab05773699cff7d47aed04fdd9d09f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e7d2fa3b49b1dc9ae981bb28ab504bae') in 0.0120639 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal.mat
+  artifactKey: Guid(c2de9ee12d731e14e93392e0a8046454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal.mat using Guid(c2de9ee12d731e14e93392e0a8046454) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '358d3f521deeeb0903046d8365f114c9') in 0.0163304 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.495160 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building Sky_big_color2.mat
+  artifactKey: Guid(6aa3308adc31f85488aad32917b3a595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building Sky_big_color2.mat using Guid(6aa3308adc31f85488aad32917b3a595) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70e2e263dae26d590ce45eea44c8bcc1') in 0.0206131 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Coffee Shop 1.mat
+  artifactKey: Guid(9594460ca89dad54fb4774fbb326ad93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Coffee Shop 1.mat using Guid(9594460ca89dad54fb4774fbb326ad93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4955bdbad6b4d3817b9fe6b1d888ec48') in 0.019308 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building Sky_big_color3.mat
+  artifactKey: Guid(e85b371959272f34ca9b6319b241e2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building Sky_big_color3.mat using Guid(e85b371959272f34ca9b6319b241e2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1cbd1f90031c49c69bdb97edde2b2227') in 0.0207892 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Drug Store 2.mat
+  artifactKey: Guid(4d3b8aa0887ecf845b53c6291b75adc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Drug Store 2.mat using Guid(4d3b8aa0887ecf845b53c6291b75adc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95f995a0867c0d1be6d69dbf0ca1dcb6') in 0.0207115 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Coffee Shop 2.mat
+  artifactKey: Guid(4cdc34e184630cd49b6124dfecbf79ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Coffee Shop 2.mat using Guid(4cdc34e184630cd49b6124dfecbf79ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7eb74fd3a2c60a6a09cda3d6ff917313') in 0.0269545 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Bakery 2.mat
+  artifactKey: Guid(e12fce482cc079b488bf249082d73636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Bakery 2.mat using Guid(e12fce482cc079b488bf249082d73636) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5d1956ada3fcea81db23575e1b99f683') in 0.0192508 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building Sky_small_color01.mat
+  artifactKey: Guid(cf528230e5d0dcd42ab2d20dcda96917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building Sky_small_color01.mat using Guid(cf528230e5d0dcd42ab2d20dcda96917) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e83c0a9f8582e9b4b01d65dbaedae6a2') in 0.0179173 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Fast Food 2.mat
+  artifactKey: Guid(225f9286fbb7a674f9d7e6bc70702307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Fast Food 2.mat using Guid(225f9286fbb7a674f9d7e6bc70702307) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c503d9c6cce1a0de5cf45abc148af151') in 0.0192612 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Drug Store 1.mat
+  artifactKey: Guid(4706ebb3709e0b046bd317249526e9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Drug Store 1.mat using Guid(4706ebb3709e0b046bd317249526e9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed07a38519c016b526d7ac5de6cdff27') in 0.0280529 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.318743 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Fruits  Shop 2.mat
+  artifactKey: Guid(444a982a31fd7c34bba4542a993fe817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Fruits  Shop 2.mat using Guid(444a982a31fd7c34bba4542a993fe817) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '302a282a05398ccf617c1e93676e1677') in 0.0190032 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_House_01_color02.mat
+  artifactKey: Guid(1b289b633b2f4624584f749cf4e5e7f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_House_01_color02.mat using Guid(1b289b633b2f4624584f749cf4e5e7f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c96dc6384be11a17f1493cec661edf8d') in 0.017467 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_House_01_color2.mat
+  artifactKey: Guid(8308162e86c74114db28904a1b203be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_House_01_color2.mat using Guid(8308162e86c74114db28904a1b203be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '84f860aeab921a4b12694bef6c6ef8c5') in 0.0296159 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_House_04_color01.mat
+  artifactKey: Guid(b5a19d15b0a91e74eacfaf96d03ca2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_House_04_color01.mat using Guid(b5a19d15b0a91e74eacfaf96d03ca2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bbff1699a2d12b56a32e73b78db482ee') in 0.0348105 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Gift Shop 2.mat
+  artifactKey: Guid(e0ca8ebda8a9b074caf66583b7cdef8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Gift Shop 2.mat using Guid(e0ca8ebda8a9b074caf66583b7cdef8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd24281882bd59be5f2b0720ac671d5fb') in 0.0287057 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019993 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Pizza 1.mat
+  artifactKey: Guid(a1d4aba529832314591dca3e7ab5206e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Pizza 1.mat using Guid(a1d4aba529832314591dca3e7ab5206e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4437b3595194cee75cedad9cba95451f') in 0.0189134 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Residential_color01.mat
+  artifactKey: Guid(2016355b121a1d141a5a696a5e1a3204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Residential_color01.mat using Guid(2016355b121a1d141a5a696a5e1a3204) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c38845a03c12a0421a7973abfd3ce0e0') in 0.0159574 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Props_BillBoard_medium.mat
+  artifactKey: Guid(8a98f40ab24c33a4cb2d6dd96393db82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Props_BillBoard_medium.mat using Guid(8a98f40ab24c33a4cb2d6dd96393db82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dc815dc76e614da4de40ea4888525b9d') in 0.0159257 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Super Market.mat
+  artifactKey: Guid(50a5ebe9a8d86a04d8e3b59966418b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Building_Super Market.mat using Guid(50a5ebe9a8d86a04d8e3b59966418b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5969bf3ef13bf270427d609a3cfc15bf') in 0.024233 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.178906 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Vehicle_Ambulance.mat
+  artifactKey: Guid(fded615538aced440887a3468715a826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Vehicle_Ambulance.mat using Guid(fded615538aced440887a3468715a826) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f706d8c799e39bffe18bff4e370451a3') in 0.0154255 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Vehicle_Car_3.mat
+  artifactKey: Guid(c74e40bf0194e3c45a972199c58f0ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Vehicle_Car_3.mat using Guid(c74e40bf0194e3c45a972199c58f0ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c9b3569cf40701b700ffaf86f47c236') in 0.0292686 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Vehicle_Pick up Truck_color02.mat
+  artifactKey: Guid(94d51beb0fcd7044885fa789ac899eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Vehicle_Pick up Truck_color02.mat using Guid(94d51beb0fcd7044885fa789ac899eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b334f5fb154dd3770ceb64971bf14b4e') in 0.0320528 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Vehicle_Car_color03.mat
+  artifactKey: Guid(37608e6988151a248951cdd1a93a59c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Vehicle_Car_color03.mat using Guid(37608e6988151a248951cdd1a93a59c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ebd52b813a656ea090baaeed14ca1dbb') in 0.0198305 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Vehicle_Car_1.mat
+  artifactKey: Guid(15ca8ade315c0e0429d298ba9d9821bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Vehicle_Car_1.mat using Guid(15ca8ade315c0e0429d298ba9d9821bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '40467aefc849eb19968b946c609da1b3') in 0.0156726 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.342640 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Vehicle_Taxi.mat
+  artifactKey: Guid(24c20333a6b79874298a79151051f9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Materials/Vehicle_Taxi.mat using Guid(24c20333a6b79874298a79151051f9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b20eb6f4887071f2b21233a8eb84e279') in 0.0152576 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
