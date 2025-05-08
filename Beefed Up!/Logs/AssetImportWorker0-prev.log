@@ -1,0 +1,637 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.38f1 (82314a941f2d) revision 8532298'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'pt' Physical Memory: 7880 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 6000.0.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56584
+-job-worker-count
+9
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
+C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [9756]  Target information:
+
+Player connection [9756]  * "[IP] 10.1.34.132 [Port] 0 [Flags] 2 [Guid] 2625435502 [EditorId] 2625435502 [Version] 1048832 [Id] WindowsEditor(7,350-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9756]  * "[IP] 169.254.248.98 [Port] 0 [Flags] 2 [Guid] 2625435502 [EditorId] 2625435502 [Version] 1048832 [Id] WindowsEditor(7,350-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9756]  * "[IP] 172.29.224.1 [Port] 0 [Flags] 2 [Guid] 2625435502 [EditorId] 2625435502 [Version] 1048832 [Id] WindowsEditor(7,350-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9756] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [9756] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 7.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.38f1 (82314a941f2d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 6000.0.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 770 (ID=0x4680)
+    Vendor:   Intel
+    VRAM:     3940 MB
+    Driver:   32.0.101.6078
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer/UnityEditor.VisionOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.033729 seconds.
+- Loaded All Assemblies, in  1.051 seconds
+Native extension for LinuxStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.842 seconds
+Domain Reload Profiling: 1887ms
+	BeginReloadAssembly (422ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (3ms)
+	RebuildCommonClasses (69ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (153ms)
+	LoadAllAssembliesAndSetupDomain (377ms)
+		LoadAssemblies (415ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (361ms)
+			TypeCache.Refresh (358ms)
+				TypeCache.ScanAssembly (327ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (843ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (769ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (263ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (121ms)
+			ProcessInitializeOnLoadAttributes (256ms)
+			ProcessInitializeOnLoadMethodAttributes (121ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.565 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.13 ms, found 3 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Refreshing native plugins compatible for Editor in 2.97 ms, found 3 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.020 seconds
+Domain Reload Profiling: 4582ms
+	BeginReloadAssembly (438ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (80ms)
+	RebuildCommonClasses (63ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (80ms)
+	LoadAllAssembliesAndSetupDomain (1959ms)
+		LoadAssemblies (1535ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (683ms)
+			TypeCache.Refresh (534ms)
+				TypeCache.ScanAssembly (445ms)
+			BuildScriptInfoCaches (118ms)
+			ResolveRequiredComponents (25ms)
+	FinalizeReload (2021ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1603ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (76ms)
+			SetLoadedEditorAssemblies (11ms)
+			BeforeProcessingInitializeOnLoad (221ms)
+			ProcessInitializeOnLoadAttributes (1086ms)
+			ProcessInitializeOnLoadMethodAttributes (198ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 4.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 289 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6403 unused Assets / (5.1 MB). Loaded Objects now: 7209.
+Memory consumption went from 207.6 MB to 202.5 MB.
+Total: 29.440800 ms (FindLiveObjects: 3.282000 ms CreateObjectMapping: 2.795400 ms MarkObjects: 14.268700 ms  DeleteObjects: 9.084300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17500.146889 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/fountainEdge.obj
+  artifactKey: Guid(0a039131995ac814ba9504793d7141a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/fountainEdge.obj using Guid(0a039131995ac814ba9504793d7141a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f997daa9e28d79fb9521823e54731127') in 1.3135698 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/roofHighWindow.obj
+  artifactKey: Guid(3d2f8deb233a6f142a8dee25f84a9000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/roofHighWindow.obj using Guid(3d2f8deb233a6f142a8dee25f84a9000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ccab7fe2fa41950a2adc4f1ea816c459') in 0.1238808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/rockWide.obj
+  artifactKey: Guid(d4eddb5184900c14081731c67208efcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/rockWide.obj using Guid(d4eddb5184900c14081731c67208efcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6ee21d0459e6bd10f763bc9326e6fcc5') in 0.0563593 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/pillarWood.obj
+  artifactKey: Guid(12acd74313c77d24b97a11ad4232f27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/pillarWood.obj using Guid(12acd74313c77d24b97a11ad4232f27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e1e67e46fb66c2e33d7e274c2d03bae') in 0.0950288 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/fountainRound.obj
+  artifactKey: Guid(732c2beee7511e243be5e8092bfafec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/fountainRound.obj using Guid(732c2beee7511e243be5e8092bfafec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c92155fc5bab96114f15de5528ba7935') in 0.112046 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/hedgeLargeCurved.obj
+  artifactKey: Guid(6f0f9fc85f50db341aad500391169d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/hedgeLargeCurved.obj using Guid(6f0f9fc85f50db341aad500391169d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8bfe37c235c12c5a4973ad88d0aec3bd') in 0.0714771 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/roofCorner.obj
+  artifactKey: Guid(c3c0e0a923ac9a74faa03952629c32a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/roofCorner.obj using Guid(c3c0e0a923ac9a74faa03952629c32a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a174adae33eb208f1e8f520d5bad1f4f') in 0.0863105 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/hedge.obj
+  artifactKey: Guid(da2fc821aaec7874881433ea38b96cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/hedge.obj using Guid(da2fc821aaec7874881433ea38b96cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8bb446080a4508da11c2ce4f811e574d') in 0.0940831 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/poles.obj
+  artifactKey: Guid(14a8c09f8728c0f46bad89cc3079d5ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/poles.obj using Guid(14a8c09f8728c0f46bad89cc3079d5ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2a453d42d3da8a47814999d38d65d542') in 0.0834177 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/fountainSquare.obj
+  artifactKey: Guid(c235b01b1237b1c468f0df843e74a18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/fountainSquare.obj using Guid(c235b01b1237b1c468f0df843e74a18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '839ec71669f83c3163c52cb8f1b8af8d') in 0.1001841 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/road.obj
+  artifactKey: Guid(734cd1670897b274eb55d6efbb8e0fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/road.obj using Guid(734cd1670897b274eb55d6efbb8e0fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb404e237a50fb4a97480aeab7244693') in 0.0700723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/fenceGate.obj
+  artifactKey: Guid(e489d6c8b66ee8b46ae994a182df5e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/fenceGate.obj using Guid(e489d6c8b66ee8b46ae994a182df5e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '363dd2de24bcd55e916c8c2dd951a925') in 0.0999008 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/roofHighPoint.obj
+  artifactKey: Guid(106c7bfeb3eb7704e8539b58b42fe70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/roofHighPoint.obj using Guid(106c7bfeb3eb7704e8539b58b42fe70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5248330ced8d386d55a36ed56172375a') in 0.0831987 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/rockLarge.obj
+  artifactKey: Guid(336502dd44d5bef48898ce40f1b8c0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/rockLarge.obj using Guid(336502dd44d5bef48898ce40f1b8c0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b27104b87e94d23513c8676947a46f73') in 0.0709581 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/balconyWallFence.obj
+  artifactKey: Guid(72aac6a9eed21b449b704fe51a0aabd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/balconyWallFence.obj using Guid(72aac6a9eed21b449b704fe51a0aabd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cdac95ef2b3d5e006c75d5f1b00f66f3') in 0.0698197 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.905686 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/stairsFull.obj
+  artifactKey: Guid(def2400f3d8189c46b221ae40745193e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/stairsFull.obj using Guid(def2400f3d8189c46b221ae40745193e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c0111a8cc299ed04000a0b396f24c8d0') in 0.0636331 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.272464 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/stairsStone.obj
+  artifactKey: Guid(93fd29ba2c0af7943bbb81e80bf5ac7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/stairsStone.obj using Guid(93fd29ba2c0af7943bbb81e80bf5ac7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f99da713e6067fc971a97d69735656c5') in 0.067338 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.321836 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/stairsWideWood.obj
+  artifactKey: Guid(05e9185bd18965642964e8fe6ea7a2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/stairsWideWood.obj using Guid(05e9185bd18965642964e8fe6ea7a2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5444ac642f7b14efb35f4141072b7ff9') in 0.0666336 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/stairsWoodHandrail.obj
+  artifactKey: Guid(3a37f7b31441bbb469f8b3c64c073370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/stairsWoodHandrail.obj using Guid(3a37f7b31441bbb469f8b3c64c073370) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ad37d6e63dc5e9a06a2810d1ff28274b') in 0.0703801 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.221438 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/stallGreen.obj
+  artifactKey: Guid(0e9b97af5ac207441877cdc8a64ec4ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/stallGreen.obj using Guid(0e9b97af5ac207441877cdc8a64ec4ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1a165ea1d3f3633f73611f0454f4bb8') in 0.0851068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.300051 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/treeHighCrooked.obj
+  artifactKey: Guid(7a529478e3b3a804dbb6cff069c6330f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/treeHighCrooked.obj using Guid(7a529478e3b3a804dbb6cff069c6330f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd80daa917d5843db88d258a890ae4978') in 0.0649741 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.243109 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallArch.obj
+  artifactKey: Guid(f7bcfa5cd8e57a542ab87bb3bbadce21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallArch.obj using Guid(f7bcfa5cd8e57a542ab87bb3bbadce21) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1cc1c890f8cf2c0f1aed1a3d1c95e1d2') in 0.0783403 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.336408 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallBlock.obj
+  artifactKey: Guid(9089a2c236b722344b2a65373e3c4e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallBlock.obj using Guid(9089a2c236b722344b2a65373e3c4e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f47f08709a9e263534432f4691650c2') in 0.0674868 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.340901 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallCorner.obj
+  artifactKey: Guid(a59a20ac13f23ad4c941f75cc8e51b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallCorner.obj using Guid(a59a20ac13f23ad4c941f75cc8e51b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a9dbe2170bc6ca711dcd83eacf1964fd') in 0.059884 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.242259 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallCornerDiagonalHalf.obj
+  artifactKey: Guid(57de56145197ca249b71b3229c0d13af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallCornerDiagonalHalf.obj using Guid(57de56145197ca249b71b3229c0d13af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '595c38d842ae1eb762d504e1ffbd37b9') in 0.0621027 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.286406 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallDetailCross.obj
+  artifactKey: Guid(6d4398f0e888fab48b198737232f99ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallDetailCross.obj using Guid(6d4398f0e888fab48b198737232f99ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c2c7d9de0ca767110f6b79bb670d7730') in 0.0643378 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.160997 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallDoorwayRound.obj
+  artifactKey: Guid(f86d18c549fe24c40b5f5e463be1014d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallDoorwayRound.obj using Guid(f86d18c549fe24c40b5f5e463be1014d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '61685083979ace85cea0899fdd71d1b9') in 0.0907735 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.329420 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallDoorwaySquareWideCurved.obj
+  artifactKey: Guid(6a7884d10a27b6d4fa792753d7f93d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallDoorwaySquareWideCurved.obj using Guid(6a7884d10a27b6d4fa792753d7f93d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9ca51d6edba298df7de81e88ba5147d') in 0.0957253 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.112524 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallSide.obj
+  artifactKey: Guid(5f9b5a55bc12f73459e9207a386ffe0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallSide.obj using Guid(5f9b5a55bc12f73459e9207a386ffe0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5309e43134b104cc8299f8a28e7fdb0d') in 0.0742741 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.398531 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallWindowRound.obj
+  artifactKey: Guid(b43c26f6791da5347b30d48b438aa8a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallWindowRound.obj using Guid(b43c26f6791da5347b30d48b438aa8a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69ab87dfc4f3ef69e0d20c44f402cccf') in 0.091456 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.133248 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallWindowStone.obj
+  artifactKey: Guid(ea9963daecb583d4bab9776abeada239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallWindowStone.obj using Guid(ea9963daecb583d4bab9776abeada239) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd1ef50fe0b5a08b385de38766ff03a55') in 0.1016508 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.308521 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallWoodArchTop.obj
+  artifactKey: Guid(d50d499f928513645b04d95662f71423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallWoodArchTop.obj using Guid(d50d499f928513645b04d95662f71423) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d0b8f252dd4bd056c3b6145c7a2dd1d') in 0.075348 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.456174 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallWoodBlockHalf.obj
+  artifactKey: Guid(046b253ac36d552449ee71ccfda81277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallWoodBlockHalf.obj using Guid(046b253ac36d552449ee71ccfda81277) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '31a93f9fcbdefe79c8eeb7829a6f42e3') in 0.0695678 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198572 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallWoodCornerDiagonal.obj
+  artifactKey: Guid(6b79541ba021d2b45bce689ff2075164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallWoodCornerDiagonal.obj using Guid(6b79541ba021d2b45bce689ff2075164) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4ae4abbbcc989559fdd719b16952bb38') in 0.1070306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.228421 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Models/Building_Auto Service.fbx
+  artifactKey: Guid(c886fb979d2b589419f4cd3003261086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Models/Building_Auto Service.fbx using Guid(c886fb979d2b589419f4cd3003261086) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00d13a78ed75941d20b0244cc9a45268') in 0.0293322 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Models/Building_House_02_color01.fbx
+  artifactKey: Guid(8cb6d953267a0884288df6a274f09c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Models/Building_House_02_color01.fbx using Guid(8cb6d953267a0884288df6a274f09c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d287faee3f4a275606e084cc883a2d3') in 0.0369916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Models/Building_House_01_color01.fbx
+  artifactKey: Guid(6fddb771ca917c6498310bcc16a817e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Models/Building_House_01_color01.fbx using Guid(6fddb771ca917c6498310bcc16a817e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b690a5e613726b8c859b9126e4195ba') in 0.0360688 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Models/Building_Fruits  Shop.fbx
+  artifactKey: Guid(0f5d2e6533e3fb44fbd094c173ba3f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Models/Building_Fruits  Shop.fbx using Guid(0f5d2e6533e3fb44fbd094c173ba3f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8762e9f1aeaeaa958481817442a73b99') in 0.0276624 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Models/Building_Stadium.fbx
+  artifactKey: Guid(8d799610519b6274c8bb35a7fd95f5f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/SimplePoly City - Low Poly Assets/Models/Building_Stadium.fbx using Guid(8d799610519b6274c8bb35a7fd95f5f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ccc34a5bab55e00ddbfc3ffad4ce9486') in 0.0393324 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.367860 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallWoodDetailDiagonal.obj
+  artifactKey: Guid(d6205da59bbccce47bf1aa22d53d66b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallWoodDetailDiagonal.obj using Guid(d6205da59bbccce47bf1aa22d53d66b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '74c8d5f25bc989073e8683128c5121b4') in 0.0541139 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.285512 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallWoodDiagonal.obj
+  artifactKey: Guid(9e64e0434c1b5d24f948c9e9874e4b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallWoodDiagonal.obj using Guid(9e64e0434c1b5d24f948c9e9874e4b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '22b3d73ccceaeae6ead2841c9ef71155') in 0.0603245 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallWoodDoorwayBase.obj
+  artifactKey: Guid(23c235c2116bd89469c77962608f0cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallWoodDoorwayBase.obj using Guid(23c235c2116bd89469c77962608f0cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11cce9de0a11891d1538f27cfc1c9dc7') in 0.0576075 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.308859 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallWoodDoorwaySquare.obj
+  artifactKey: Guid(14cbbd5bb0e51464f8876d9ae5059ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallWoodDoorwaySquare.obj using Guid(14cbbd5bb0e51464f8876d9ae5059ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7fbaba7382d7975e348b43b8b2630abe') in 0.048042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallWoodDoorwaySquareWide.obj
+  artifactKey: Guid(0ff52193c81f30445b511a64d882d655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallWoodDoorwaySquareWide.obj using Guid(0ff52193c81f30445b511a64d882d655) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ae51c1171f05bd9bdb474ec4f2e90f1') in 0.0540896 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.497513 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallWoodHalf.obj
+  artifactKey: Guid(172c8f69eb0ee184a87290bfae8b60ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallWoodHalf.obj using Guid(172c8f69eb0ee184a87290bfae8b60ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03693f442674e1b855d9555bd0c68863') in 0.0512674 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.040703 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallWoodSide.obj
+  artifactKey: Guid(ef2103f9491e47c4cbb7a125f9521d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallWoodSide.obj using Guid(ef2103f9491e47c4cbb7a125f9521d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '167adc96042e1208b17a7f8a2184b457') in 0.0502746 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.358823 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/wallWoodWindowRound.obj
+  artifactKey: Guid(16379a2dc88c0c747b57340aaeb73486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/wallWoodWindowRound.obj using Guid(16379a2dc88c0c747b57340aaeb73486) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0f83362d5ecba5f7a8d3f4ef93df569b') in 0.0501197 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.913921 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/OBJ format/wallDoorwaySquareWide.obj
+  artifactKey: Guid(22ccd99b5d4c4c0429a9c81876ec69e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/OBJ format/wallDoorwaySquareWide.obj using Guid(22ccd99b5d4c4c0429a9c81876ec69e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1eecbbcc5699a86ab0534aba1a0334ac') in 0.0596358 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/OBJ format/wallWindowGlass.obj
+  artifactKey: Guid(1a76734056319144b97f14a6a88ce9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/OBJ format/wallWindowGlass.obj using Guid(1a76734056319144b97f14a6a88ce9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4ec6364f834dde88cbdd556b328c9c09') in 0.0809809 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/OBJ format/wallSlope.obj
+  artifactKey: Guid(94d220c177cc57149b895451b78fb0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/OBJ format/wallSlope.obj using Guid(94d220c177cc57149b895451b78fb0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6a396f438e77b8f0d8e7fe26bcb9be6a') in 0.0623306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/SRC/Assets Baixados/OBJ format/OBJ format/wallRounded.obj
+  artifactKey: Guid(115fe1531f1b7994b8d5ba824c5b9183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/OBJ format/OBJ format/wallRounded.obj using Guid(115fe1531f1b7994b8d5ba824c5b9183) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '93fdf030761dbdc625434b05d4aba835') in 0.0645553 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
