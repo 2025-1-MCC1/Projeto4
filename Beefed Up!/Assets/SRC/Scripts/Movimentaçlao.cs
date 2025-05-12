@@ -30,7 +30,7 @@ public class Movimento : MonoBehaviour
         movimento = myCamera.TransformDirection(movimento);
         movimento.y = 0;
 
-        controller.Move(movimento * Time.deltaTime * 5);
+        controller.Move(movimento * Time.deltaTime * 10);
 
 
 
@@ -46,7 +46,7 @@ public class Movimento : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space) && estaNoChao)
         {
-            ForcaY = 5f;  // Esse valor vai fazer o personagem ter uma impulsão pra cima
+            ForcaY = 7f;  // Esse valor vai fazer o personagem ter uma impulsão pra cima
             animator.SetTrigger("Saltar");
         }
 
