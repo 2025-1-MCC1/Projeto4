@@ -23,11 +23,11 @@
 Beefed Up!! é um jogo de ação com uma pitada de humor e uma história inusitada de vingança, mutações genéticas e reconstrução!
 
 <br><br>
-Tudo começou em um pacato campo onde Victor, um fazendeiro dedicado, cuidava com orgulho de seu pasto repleto de bois saudáveis. Mas a paz foi interrompida quando Luis, um cientista invejoso, decidiu criar uma mutação genética em segredo. Com um plano maluco, ele liberou esses bois mutantes no pasto de Victor, o resultado foi um desastre: os bois se tornaram agressivos, dizimaram os dois homens e partiram em direção à cidade, destruindo tudo em seu caminho.
+Tudo começou em um pacato campo onde Luís, o governador e fazendeiro dedicado, cuidava com orgulho de seu pasto repleto de bois saudáveis. Mas a paz foi interrompida quando Victor, um cientista invejoso, decidiu criar uma mutação genética em segredo. Com um plano maluco, ele liberou esses bois mutantes no pasto de Luís, o resultado foi um desastre: os bois se tornaram agressivos, dizimaram os dois homens e partiram em direção à cidade, destruindo tudo em seu caminho.
 
 Mas nem tudo está perdido...
 <br><br>
-Você joga como o filho de Victor, o último herdeiro da fazenda. Cabe a você enfrentar os bois mutantes, salvar o que restou da cidade e reconstruí-la de forma mais inteligente e sustentável.
+Você joga como o filho de Luís, o último herdeiro da fazenda e da cidade. Cabe a você enfrentar os bois mutantes, salvar o que restou da cidade e reconstruí-la de forma mais inteligente e sustentável.
 <br><br>
 
 ## 🛠 Estrutura de pastas
