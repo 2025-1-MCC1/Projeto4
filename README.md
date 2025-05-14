@@ -1,8 +1,3 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
 
 # FECAP - Fundação de Comércio Álvares Penteado
 
@@ -15,7 +10,7 @@ Vide tutoriais do PI.
 ## Nome do Grupo: FullStack Vision
 
 ## Integrantes: <a href="https://www.linkedin.com/in/enzohenrique777/">Enzo Henrique</a>, <a href="https://github.com/Enzooouu12">Enzo Sakita</a>, <a href="https://www.linkedin.com/in/katie-prado-388129312/">Katie Prado</a>.
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz</a>, <a href="https://www.linkedin.com/in/joyce-tavares-18821719a/">Joyce</a>, <a href="https://www.linkedin.com/in/luisspires/">Luís Pires</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>, <a href="https://www.linkedin.com/in/joyce-tavares-18821719a/">Joyce Daniele Tavares</a>, <a href="https://www.linkedin.com/in/luisspires/">Luís Fernando dos Santos Pires</a>
 
 ## Descrição
 
@@ -106,7 +101,7 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-Beefed Up!! © 2025 by Enzo Sakita, Katie Prado, Enzo Henrique is licensed under CC BY-SA 4.0
+<a href="https://creativecommons.org">Beefed Up!!</a> © 2025 by <a href="https://creativecommons.org">Katie Prado, Enzo Sakita, Enzo Henrique</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
