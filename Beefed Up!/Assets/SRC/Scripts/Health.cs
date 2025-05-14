@@ -36,10 +36,10 @@ public class Health : MonoBehaviour
     // Testar o dano
     //void Update()
     //{
-    // if (Input.GetKeyDown(KeyCode.Space))
-    // {
-    //     TakeDamage(10f); // Tira 10 de vida quando aperta espaço
-    // }
-    // }
+     //if (Input.GetKeyDown(KeyCode.Space))
+     //{
+         //TakeDamage(10f); // Tira 10 de vida quando aperta espaço
+     //}
+     //}
 
 }

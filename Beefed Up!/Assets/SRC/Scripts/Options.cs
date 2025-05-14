@@ -8,8 +8,7 @@ public class Options : MonoBehaviour
     // Este método será chamado quando o jogador clicar em "Jogar"
     public void options()
     {
-        // Carrega a cena do jogo (certifique-se de adicionar a cena nas configurações de build!)
-        SceneManager.LoadScene("options");
+       
     }
 
     // Update is called once per frame
