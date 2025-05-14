@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '6000.0/staging' branch; Version is '6000.0.38f1 (82314a941f2d) revision 8532298'; Using compiler version '193933523'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'pt' Physical Memory: 7880 MB
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'pt' Physical Memory: 16226 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,19 +11,23 @@ C:\Program Files\Unity 6000.0.38f1\Editor\Unity.exe
 -name
 AssetImportWorker7
 -projectPath
-C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
+C:/Users/Enzo/Documents/GitHub/Projeto4/Beefed Up!
 -logFile
 Logs/AssetImportWorker7.log
 -srvPort
-58613
+<<<<<<<< HEAD:Beefed Up!/Logs/AssetImportWorker7.log
+51520
+========
+65491
+>>>>>>>> 1aae5543dceb7f398342e97fed6556551d0508a4:Beefed Up!/Logs/AssetImportWorker7-prev.log
 -job-worker-count
-9
+5
 -background-job-worker-count
 8
 -gc-helper-count
 1
-Successfully changed project path to: C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
-C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
+Successfully changed project path to: C:/Users/Enzo/Documents/GitHub/Projeto4/Beefed Up!
+C:/Users/Enzo/Documents/GitHub/Projeto4/Beefed Up!
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -59,17 +63,29 @@ C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [14944]  Target information:
+<<<<<<<< HEAD:Beefed Up!/Logs/AssetImportWorker7.log
+Player connection [2680]  Target information:
 
-Player connection [14944]  * "[IP] 10.1.34.132 [Port] 0 [Flags] 2 [Guid] 2133069051 [EditorId] 2133069051 [Version] 1048832 [Id] WindowsEditor(7,350-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [2680]  * "[IP] 192.168.0.181 [Port] 0 [Flags] 2 [Guid] 2823479155 [EditorId] 2823479155 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-ING2306) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [14944]  * "[IP] 169.254.248.98 [Port] 0 [Flags] 2 [Guid] 2133069051 [EditorId] 2133069051 [Version] 1048832 [Id] WindowsEditor(7,350-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [2680]  * "[IP] 26.230.106.192 [Port] 0 [Flags] 2 [Guid] 2823479155 [EditorId] 2823479155 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-ING2306) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [14944]  * "[IP] 172.22.32.1 [Port] 0 [Flags] 2 [Guid] 2133069051 [EditorId] 2133069051 [Version] 1048832 [Id] WindowsEditor(7,350-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [2680] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [2680] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+========
+Player connection [17584]  Target information:
 
-Player connection [14944] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [14944] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [17584]  * "[IP] 10.1.34.69 [Port] 0 [Flags] 2 [Guid] 3013968204 [EditorId] 3013968204 [Version] 1048832 [Id] WindowsEditor(7,350-38) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [17584]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3013968204 [EditorId] 3013968204 [Version] 1048832 [Id] WindowsEditor(7,350-38) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [17584]  * "[IP] 172.20.240.1 [Port] 0 [Flags] 2 [Guid] 3013968204 [EditorId] 3013968204 [Version] 1048832 [Id] WindowsEditor(7,350-38) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [17584] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [17584] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 9
+>>>>>>>> 1aae5543dceb7f398342e97fed6556551d0508a4:Beefed Up!/Logs/AssetImportWorker7-prev.log
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
@@ -80,74 +96,113 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 7.19 ms, found 3 plugins.
+<<<<<<<< HEAD:Beefed Up!/Logs/AssetImportWorker7.log
+Refreshing native plugins compatible for Editor in 1.79 ms, found 3 plugins.
+========
+Refreshing native plugins compatible for Editor in 9.47 ms, found 3 plugins.
+>>>>>>>> 1aae5543dceb7f398342e97fed6556551d0508a4:Beefed Up!/Logs/AssetImportWorker7-prev.log
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.38f1 (82314a941f2d)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 6000.0.38f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!/Assets
+[Subsystems] Discovering subsystems at path C:/Users/Enzo/Documents/GitHub/Projeto4/Beefed Up!/Assets
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) UHD Graphics 770 (ID=0x4680)
-    Vendor:   Intel
-    VRAM:     3940 MB
-    Driver:   32.0.101.6078
+    Renderer: NVIDIA GeForce RTX 3050 (ID=0x2582)
+    Vendor:   NVIDIA
+    VRAM:     8042 MB
+    Driver:   32.0.15.7283
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56256
+<<<<<<<< HEAD:Beefed Up!/Logs/AssetImportWorker7.log
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56804
+========
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56692
+>>>>>>>> 1aae5543dceb7f398342e97fed6556551d0508a4:Beefed Up!/Logs/AssetImportWorker7-prev.log
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer/UnityEditor.VisionOS.Extensions.dll
 Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+<<<<<<<< HEAD:Beefed Up!/Logs/AssetImportWorker7.log
+Registered in 0.002639 seconds.
+- Loaded All Assemblies, in  0.319 seconds
+========
 Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
 Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
 Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.024692 seconds.
-- Loaded All Assemblies, in  0.666 seconds
+Registered in 0.030726 seconds.
+- Loaded All Assemblies, in  0.996 seconds
 Native extension for LinuxStandalone target not found
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 Native extension for iOS target not found
 Native extension for Android target not found
 Native extension for UWP target not found
+>>>>>>>> 1aae5543dceb7f398342e97fed6556551d0508a4:Beefed Up!/Logs/AssetImportWorker7-prev.log
 Native extension for WindowsStandalone target not found
-Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
-Native extension for VisionOS target not found
-Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.576 seconds
-Domain Reload Profiling: 1237ms
-	BeginReloadAssembly (258ms)
+<<<<<<<< HEAD:Beefed Up!/Logs/AssetImportWorker7.log
+- Finished resetting the current domain, in  0.250 seconds
+Domain Reload Profiling: 567ms
+	BeginReloadAssembly (121ms)
+========
+- Finished resetting the current domain, in  0.678 seconds
+Domain Reload Profiling: 1666ms
+	BeginReloadAssembly (446ms)
+>>>>>>>> 1aae5543dceb7f398342e97fed6556551d0508a4:Beefed Up!/Logs/AssetImportWorker7-prev.log
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
+<<<<<<<< HEAD:Beefed Up!/Logs/AssetImportWorker7.log
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (51ms)
-	RebuildNativeTypeToScriptingClass (17ms)
-	initialDomainReloadingComplete (91ms)
-	LoadAllAssembliesAndSetupDomain (245ms)
-		LoadAssemblies (255ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (115ms)
+		LoadAssemblies (118ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (237ms)
-			TypeCache.Refresh (234ms)
-				TypeCache.ScanAssembly (214ms)
+		AnalyzeDomain (113ms)
+			TypeCache.Refresh (112ms)
+				TypeCache.ScanAssembly (101ms)
 			BuildScriptInfoCaches (0ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (576ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (250ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (514ms)
+		SetupLoadedEditorAssemblies (216ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (185ms)
-			SetLoadedEditorAssemblies (5ms)
-			BeforeProcessingInitializeOnLoad (74ms)
-			ProcessInitializeOnLoadAttributes (166ms)
-			ProcessInitializeOnLoadMethodAttributes (84ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (38ms)
+			ProcessInitializeOnLoadAttributes (112ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+========
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (79ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (149ms)
+	LoadAllAssembliesAndSetupDomain (291ms)
+		LoadAssemblies (443ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (279ms)
+			TypeCache.Refresh (277ms)
+				TypeCache.ScanAssembly (254ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (678ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (614ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (249ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (79ms)
+			ProcessInitializeOnLoadAttributes (187ms)
+			ProcessInitializeOnLoadMethodAttributes (92ms)
+>>>>>>>> 1aae5543dceb7f398342e97fed6556551d0508a4:Beefed Up!/Logs/AssetImportWorker7-prev.log
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -159,19 +214,24 @@ Import Worker Mode flag is 0x00
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.397 seconds
+<<<<<<<< HEAD:Beefed Up!/Logs/AssetImportWorker7.log
+- Loaded All Assemblies, in  0.626 seconds
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-Refreshing native plugins compatible for Editor in 2.43 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+========
+- Loaded All Assemblies, in  1.792 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.89 ms, found 3 plugins.
 Native extension for LinuxStandalone target not found
 Native extension for iOS target not found
 Native extension for Android target not found
 Native extension for UWP target not found
+>>>>>>>> 1aae5543dceb7f398342e97fed6556551d0508a4:Beefed Up!/Logs/AssetImportWorker7-prev.log
 Native extension for WindowsStandalone target not found
-Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
-Native extension for VisionOS target not found
-Native extension for WebGL target not found
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
@@ -180,120 +240,109 @@ Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-Refreshing native plugins compatible for Editor in 2.05 ms, found 3 plugins.
+<<<<<<<< HEAD:Beefed Up!/Logs/AssetImportWorker7.log
+Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.260 seconds
-Domain Reload Profiling: 2648ms
-	BeginReloadAssembly (256ms)
+- Finished resetting the current domain, in  0.625 seconds
+Domain Reload Profiling: 1248ms
+	BeginReloadAssembly (134ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (418ms)
+		LoadAssemblies (295ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (205ms)
+			TypeCache.Refresh (146ms)
+				TypeCache.ScanAssembly (133ms)
+			BuildScriptInfoCaches (45ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (626ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (497ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (89ms)
+			ProcessInitializeOnLoadAttributes (334ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 293 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6407 unused Assets / (5.3 MB). Loaded Objects now: 7197.
+Memory consumption went from 199.7 MB to 194.5 MB.
+Total: 10.478600 ms (FindLiveObjects: 0.810600 ms CreateObjectMapping: 0.854800 ms MarkObjects: 5.272300 ms  DeleteObjects: 3.539500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14586.818805 seconds.
+  path: Assets/ithappy/Animals_FREE/Meshes/Deer_001.fbx
+  artifactKey: Guid(f612768321ebc364fa742fa8bbfadb5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ithappy/Animals_FREE/Meshes/Deer_001.fbx using Guid(f612768321ebc364fa742fa8bbfadb5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd95fb5326ef5e5e8b5d9666ce5e74d2e') in 0.5990517 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 81
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.987352 seconds.
+  path: Assets/ithappy/Animals_FREE/Materials/Texture.mat
+  artifactKey: Guid(6525bebe84ed66b4fa3200c03a2a6129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ithappy/Animals_FREE/Materials/Texture.mat using Guid(6525bebe84ed66b4fa3200c03a2a6129) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '42a969d34bc7a8720d15a799ca7f6bc7') in 0.0270203 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+========
+Refreshing native plugins compatible for Editor in 2.21 ms, found 3 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.578 seconds
+Domain Reload Profiling: 3356ms
+	BeginReloadAssembly (331ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (9ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (37ms)
-	RebuildCommonClasses (51ms)
-	RebuildNativeTypeToScriptingClass (16ms)
-	initialDomainReloadingComplete (58ms)
-	LoadAllAssembliesAndSetupDomain (1006ms)
-		LoadAssemblies (769ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (1322ms)
+		LoadAssemblies (1115ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (397ms)
-			TypeCache.Refresh (293ms)
-				TypeCache.ScanAssembly (261ms)
-			BuildScriptInfoCaches (81ms)
-			ResolveRequiredComponents (18ms)
-	FinalizeReload (1261ms)
+		AnalyzeDomain (425ms)
+			TypeCache.Refresh (312ms)
+				TypeCache.ScanAssembly (280ms)
+			BuildScriptInfoCaches (90ms)
+			ResolveRequiredComponents (19ms)
+	FinalizeReload (1579ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1033ms)
+		SetupLoadedEditorAssemblies (1218ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (61ms)
-			SetLoadedEditorAssemblies (6ms)
-			BeforeProcessingInitializeOnLoad (159ms)
-			ProcessInitializeOnLoadAttributes (654ms)
-			ProcessInitializeOnLoadMethodAttributes (143ms)
-			AfterProcessingInitializeOnLoad (10ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (213ms)
+			ProcessInitializeOnLoadAttributes (799ms)
+			ProcessInitializeOnLoadMethodAttributes (124ms)
+			AfterProcessingInitializeOnLoad (12ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (10ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
-Refreshing native plugins compatible for Editor in 2.04 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 4.45 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 289 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6407 unused Assets / (5.1 MB). Loaded Objects now: 7214.
-Memory consumption went from 201.3 MB to 196.2 MB.
-Total: 15.809400 ms (FindLiveObjects: 2.028400 ms CreateObjectMapping: 0.601900 ms MarkObjects: 8.531100 ms  DeleteObjects: 4.643900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 23154.928156 seconds.
-  path: Assets/SRC/Assets Baixados/animais/BlackBull/Texture/Materials/Eyelash 4.mat
-  artifactKey: Guid(50b376d154daa154fa55c93be021db83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SRC/Assets Baixados/animais/BlackBull/Texture/Materials/Eyelash 4.mat using Guid(50b376d154daa154fa55c93be021db83) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6fcd157615f715a5db9208290ffd42a0') in 0.7766607 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000059 seconds.
-  path: Assets/SRC/Assets Baixados/animais/BlackBull/Texture/Materials/Tail.mat
-  artifactKey: Guid(d61c2db3775323147aa7b70a8be147d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SRC/Assets Baixados/animais/BlackBull/Texture/Materials/Tail.mat using Guid(d61c2db3775323147aa7b70a8be147d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6073b72c5d88df5e78b025c776804573') in 0.0191843 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.034980 seconds.
-  path: Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Prefabs/Chicken_001 Variant.prefab
-  artifactKey: Guid(769fe25356f8bfa439e2ce0adb4227eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Prefabs/Chicken_001 Variant.prefab using Guid(769fe25356f8bfa439e2ce0adb4227eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe9505ba301052a996ce5da5b7b25d4a') in 0.1003756 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 166
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Prefabs/Kitty_001.prefab
-  artifactKey: Guid(44a0de0f766c9634eb66f1d56b7edc9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Prefabs/Kitty_001.prefab using Guid(44a0de0f766c9634eb66f1d56b7edc9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6100a33b54430392930356c07588d1ba') in 0.0261423 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 104
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000073 seconds.
-  path: Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Prefabs/Tiger_001.prefab
-  artifactKey: Guid(8741cd6c8b9fc3947999191d0c381f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Prefabs/Tiger_001.prefab using Guid(8741cd6c8b9fc3947999191d0c381f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '42dec8834cc9d261fd2fc4368d3ad66c') in 0.0303051 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 90
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Prefabs/Horse_001.prefab
-  artifactKey: Guid(dfb23d60f30c46847ba7815aa09e2567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Prefabs/Horse_001.prefab using Guid(dfb23d60f30c46847ba7815aa09e2567) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '517a8730a5b94ba3e36e2d4eba38b90e') in 0.0281226 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 114
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.057456 seconds.
-  path: Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Meshes/Kitty_001.fbx
-  artifactKey: Guid(31d2c91682ac6f045b4b75ebf27e5d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Meshes/Kitty_001.fbx using Guid(31d2c91682ac6f045b4b75ebf27e5d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a8aa4ca27dbc07f174ba9981ac8675a6') in 0.0912627 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 95
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000068 seconds.
-  path: Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Meshes/Pinguin_001.fbx
-  artifactKey: Guid(a2ef474392ac74f409c70c61ccb6c24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Meshes/Pinguin_001.fbx using Guid(a2ef474392ac74f409c70c61ccb6c24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '39860a8014f068054ab43fa16b636b22') in 0.0476197 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 55
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.984080 seconds.
-  path: Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Materials/Texture 2.mat
-  artifactKey: Guid(cafe12a8bb000604384a7a4ed73a5dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SRC/Assets Baixados/animais/ithappy/Animals_FREE/Materials/Texture 2.mat using Guid(cafe12a8bb000604384a7a4ed73a5dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '78016529cc4ef4cf99c35f9cb5129c81') in 0.0252251 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+Unloading 6403 unused Assets / (6.2 MB). Loaded Objects now: 7208.
+Memory consumption went from 204.9 MB to 198.7 MB.
+Total: 27.921700 ms (FindLiveObjects: 3.167400 ms CreateObjectMapping: 2.217800 ms MarkObjects: 14.161000 ms  DeleteObjects: 8.366800 ms)
+>>>>>>>> 1aae5543dceb7f398342e97fed6556551d0508a4:Beefed Up!/Logs/AssetImportWorker7-prev.log
 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server

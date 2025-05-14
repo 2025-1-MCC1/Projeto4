@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '6000.0/staging' branch; Version is '6000.0.38f1 (82314a941f2d) revision 8532298'; Using compiler version '193933523'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'pt' Physical Memory: 7880 MB
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'pt' Physical Memory: 16226 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,19 +11,19 @@ C:\Program Files\Unity 6000.0.38f1\Editor\Unity.exe
 -name
 AssetImportWorker3
 -projectPath
-C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
+C:/Users/Enzo/Documents/GitHub/Projeto4/Beefed Up!
 -logFile
 Logs/AssetImportWorker3.log
 -srvPort
-58613
+51520
 -job-worker-count
-9
+5
 -background-job-worker-count
 8
 -gc-helper-count
 1
-Successfully changed project path to: C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
-C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
+Successfully changed project path to: C:/Users/Enzo/Documents/GitHub/Projeto4/Beefed Up!
+C:/Users/Enzo/Documents/GitHub/Projeto4/Beefed Up!
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -59,17 +59,15 @@ C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [5504]  Target information:
+Player connection [9732]  Target information:
 
-Player connection [5504]  * "[IP] 10.1.34.132 [Port] 0 [Flags] 2 [Guid] 1376234002 [EditorId] 1376234002 [Version] 1048832 [Id] WindowsEditor(7,350-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [9732]  * "[IP] 192.168.0.181 [Port] 0 [Flags] 2 [Guid] 69290352 [EditorId] 69290352 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-ING2306) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [5504]  * "[IP] 169.254.248.98 [Port] 0 [Flags] 2 [Guid] 1376234002 [EditorId] 1376234002 [Version] 1048832 [Id] WindowsEditor(7,350-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [9732]  * "[IP] 26.230.106.192 [Port] 0 [Flags] 2 [Guid] 69290352 [EditorId] 69290352 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-ING2306) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [5504]  * "[IP] 172.22.32.1 [Port] 0 [Flags] 2 [Guid] 1376234002 [EditorId] 1376234002 [Version] 1048832 [Id] WindowsEditor(7,350-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
-
-Player connection [5504] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [5504] Host joined alternative multi-casting on [225.0.0.222:34997]...
-JobSystem: Creating JobQueue using job-worker-count value 9
+Player connection [9732] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [9732] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
@@ -80,74 +78,59 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 25.34 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.83 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.38f1 (82314a941f2d)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 6000.0.38f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/25027230/Documents/GitHub/Projeto4/Beefed Up!/Assets
+[Subsystems] Discovering subsystems at path C:/Users/Enzo/Documents/GitHub/Projeto4/Beefed Up!/Assets
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) UHD Graphics 770 (ID=0x4680)
-    Vendor:   Intel
-    VRAM:     3940 MB
-    Driver:   32.0.101.6078
+    Renderer: NVIDIA GeForce RTX 3050 (ID=0x2582)
+    Vendor:   NVIDIA
+    VRAM:     8042 MB
+    Driver:   32.0.15.7283
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56412
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56772
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer/UnityEditor.VisionOS.Extensions.dll
 Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
-Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
-Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.024312 seconds.
-- Loaded All Assemblies, in  0.692 seconds
-Native extension for LinuxStandalone target not found
-[usbmuxd] Start listen thread
-[usbmuxd] Listen thread started
-Native extension for iOS target not found
-Native extension for Android target not found
-Native extension for UWP target not found
+Registered in 0.003058 seconds.
+- Loaded All Assemblies, in  0.505 seconds
 Native extension for WindowsStandalone target not found
-Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
-Native extension for VisionOS target not found
-Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.613 seconds
-Domain Reload Profiling: 1300ms
-	BeginReloadAssembly (269ms)
+- Finished resetting the current domain, in  0.411 seconds
+Domain Reload Profiling: 914ms
+	BeginReloadAssembly (189ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (55ms)
-	RebuildNativeTypeToScriptingClass (16ms)
-	initialDomainReloadingComplete (96ms)
-	LoadAllAssembliesAndSetupDomain (251ms)
-		LoadAssemblies (266ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (56ms)
+	LoadAllAssembliesAndSetupDomain (197ms)
+		LoadAssemblies (184ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (243ms)
-			TypeCache.Refresh (241ms)
-				TypeCache.ScanAssembly (219ms)
+		AnalyzeDomain (193ms)
+			TypeCache.Refresh (191ms)
+				TypeCache.ScanAssembly (173ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (614ms)
+	FinalizeReload (412ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (545ms)
+		SetupLoadedEditorAssemblies (350ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (202ms)
+			InitializePlatformSupportModulesInManaged (32ms)
 			SetLoadedEditorAssemblies (5ms)
-			BeforeProcessingInitializeOnLoad (75ms)
-			ProcessInitializeOnLoadAttributes (176ms)
-			ProcessInitializeOnLoadMethodAttributes (87ms)
+			BeforeProcessingInitializeOnLoad (61ms)
+			ProcessInitializeOnLoadAttributes (177ms)
+			ProcessInitializeOnLoadMethodAttributes (75ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -159,19 +142,12 @@ Import Worker Mode flag is 0x00
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.781 seconds
+- Loaded All Assemblies, in  1.064 seconds
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-Refreshing native plugins compatible for Editor in 2.70 ms, found 3 plugins.
-Native extension for LinuxStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Native extension for UWP target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
-Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
-Native extension for VisionOS target not found
-Native extension for WebGL target not found
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
@@ -180,80 +156,192 @@ Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-Refreshing native plugins compatible for Editor in 1.87 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 2.00 ms, found 3 plugins.
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.401 seconds
-Domain Reload Profiling: 3221ms
-	BeginReloadAssembly (287ms)
+- Finished resetting the current domain, in  0.988 seconds
+Domain Reload Profiling: 2045ms
+	BeginReloadAssembly (226ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (11ms)
+		DisableScriptedObjects (7ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (40ms)
-	RebuildCommonClasses (51ms)
-	RebuildNativeTypeToScriptingClass (18ms)
-	initialDomainReloadingComplete (66ms)
-	LoadAllAssembliesAndSetupDomain (1388ms)
-		LoadAssemblies (1057ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (725ms)
+		LoadAssemblies (517ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (482ms)
-			TypeCache.Refresh (346ms)
-				TypeCache.ScanAssembly (293ms)
-			BuildScriptInfoCaches (94ms)
-			ResolveRequiredComponents (25ms)
-	FinalizeReload (1411ms)
+		AnalyzeDomain (340ms)
+			TypeCache.Refresh (262ms)
+				TypeCache.ScanAssembly (235ms)
+			BuildScriptInfoCaches (61ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (989ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1109ms)
+		SetupLoadedEditorAssemblies (769ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (56ms)
+			InitializePlatformSupportModulesInManaged (3ms)
 			SetLoadedEditorAssemblies (7ms)
-			BeforeProcessingInitializeOnLoad (192ms)
-			ProcessInitializeOnLoadAttributes (700ms)
-			ProcessInitializeOnLoadMethodAttributes (143ms)
-			AfterProcessingInitializeOnLoad (10ms)
+			BeforeProcessingInitializeOnLoad (132ms)
+			ProcessInitializeOnLoadAttributes (513ms)
+			ProcessInitializeOnLoadMethodAttributes (106ms)
+			AfterProcessingInitializeOnLoad (8ms)
 			EditorAssembliesLoaded (1ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (11ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
-Refreshing native plugins compatible for Editor in 13.02 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.87 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 289 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6407 unused Assets / (5.1 MB). Loaded Objects now: 7214.
-Memory consumption went from 207.0 MB to 201.8 MB.
-Total: 16.480000 ms (FindLiveObjects: 2.811200 ms CreateObjectMapping: 0.789200 ms MarkObjects: 7.060500 ms  DeleteObjects: 5.815100 ms)
+Unloading 293 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6403 unused Assets / (5.5 MB). Loaded Objects now: 7192.
+Memory consumption went from 198.8 MB to 193.3 MB.
+Total: 25.381400 ms (FindLiveObjects: 1.623800 ms CreateObjectMapping: 2.860800 ms MarkObjects: 11.175800 ms  DeleteObjects: 9.716600 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 22737.045449 seconds.
-  path: Assets/SRC/Assets Baixados/animais/BlackBull/Texture/Materials/BullLowModel_MetallicSmoothness.mat
-  artifactKey: Guid(08bf5388ad68f8b4fa0d08fdd38a220e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SRC/Assets Baixados/animais/BlackBull/Texture/Materials/BullLowModel_MetallicSmoothness.mat using Guid(08bf5388ad68f8b4fa0d08fdd38a220e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0598862ff795a477c4e1a5b37e2a4920') in 1.3202831 seconds
+  Time since last request: 13029.193070 seconds.
+  path: Assets/Low Poly Environment Starter Kit/Prefabs/URP/Terrains/Mountain 1.prefab
+  artifactKey: Guid(3dd7d59de8a84b94d842f97035616245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Environment Starter Kit/Prefabs/URP/Terrains/Mountain 1.prefab using Guid(3dd7d59de8a84b94d842f97035616245) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ec0b180d6bcab8cf74a606122253c66c') in 5.3501772 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 421.474777 seconds.
+  path: Assets/Low Poly Environment Starter Kit/Source/Material/URP/Bush.mat
+  artifactKey: Guid(abff9a0e7b711f545838fe6043bc2006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Environment Starter Kit/Source/Material/URP/Bush.mat using Guid(abff9a0e7b711f545838fe6043bc2006) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a3454bea47a2747a081a70caa96c4084') in 0.04479 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Low Poly Environment Starter Kit/Source/Material/URP/Sun.mat
+  artifactKey: Guid(347233502e0d2a047ab6f4cebf882bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Environment Starter Kit/Source/Material/URP/Sun.mat using Guid(347233502e0d2a047ab6f4cebf882bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '874a04b20f5521321f3b3656e0d8ecd5') in 3.5769855 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.696242 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Textures/Colors_Mat.mat
+  artifactKey: Guid(4f2e6c00c35c1d94abf15453d511cadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Textures/Colors_Mat.mat using Guid(4f2e6c00c35c1d94abf15453d511cadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6a4428fdcc80885af565bfb6757b3fa6') in 0.0534827 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000068 seconds.
-  path: Assets/SRC/Assets Baixados/animais/BlackBull/Texture/Materials/EyeBallHeight.mat
-  artifactKey: Guid(22cc52a3e3801f84b8384f0e3e8ec446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SRC/Assets Baixados/animais/BlackBull/Texture/Materials/EyeBallHeight.mat using Guid(22cc52a3e3801f84b8384f0e3e8ec446) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68682817900b022b485382d2810265a8') in 0.0316862 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+  Time since last request: 25.133398 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/Car 2 .prefab
+  artifactKey: Guid(097f938ab30dad44eb0996f9121199a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/Car 2 .prefab using Guid(097f938ab30dad44eb0996f9121199a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '135e90ffba076caacc1d72bf837a6380') in 0.0211055 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/SRC/Assets Baixados/animais/BlackBull/Texture/Materials/BullLowModel_Normal.mat
-  artifactKey: Guid(9add8f0d143ce7b419cfab85f538e24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SRC/Assets Baixados/animais/BlackBull/Texture/Materials/BullLowModel_Normal.mat using Guid(9add8f0d143ce7b419cfab85f538e24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03da91d6ddabc543eb978b2530e1f39b') in 0.017282 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+  Time since last request: 0.000035 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/House 2 .prefab
+  artifactKey: Guid(e9f5963fc4a61ee4b93518a6c6748831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/House 2 .prefab using Guid(e9f5963fc4a61ee4b93518a6c6748831) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68fab2e63366fc10e5bc52f186ebefda') in 0.0242607 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/Cliff 4.prefab
+  artifactKey: Guid(4d09acfefa4b0e44388ef8e7322b9a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/Cliff 4.prefab using Guid(4d09acfefa4b0e44388ef8e7322b9a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '921913c18a2942e058d560f46894e8ae') in 0.0263233 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/Tent 2 .prefab
+  artifactKey: Guid(d575e9574cca5534cb591b5326d89833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/Tent 2 .prefab using Guid(d575e9574cca5534cb591b5326d89833) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd6fb422d791a985cfabd0a861c2c3826') in 0.019002 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/Tent 1 .prefab
+  artifactKey: Guid(5974c30bdf0a2ee468a0feda7607d4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/Tent 1 .prefab using Guid(5974c30bdf0a2ee468a0feda7607d4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9fe4bac99aca04431331bdaf200e2424') in 0.022249 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/Stairs .prefab
+  artifactKey: Guid(249ebbaae21002c499f1c8a7925c1905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/Stairs .prefab using Guid(249ebbaae21002c499f1c8a7925c1905) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aa1699c79afa01e28e5e4ef57b94baa9') in 0.0196229 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/Car 3 .prefab
+  artifactKey: Guid(7de8886ae0ce24341aa407c8e3ec460a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/Car 3 .prefab using Guid(7de8886ae0ce24341aa407c8e3ec460a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ea6a91090318569d476dc16e25784ff0') in 0.0219173 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/Rock 3 .prefab
+  artifactKey: Guid(746f3ea53dc15cd46a8e5db5f10005f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/Rock 3 .prefab using Guid(746f3ea53dc15cd46a8e5db5f10005f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fa28d3114097cc12531876ec737c668f') in 0.0198963 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/Cliff 3.prefab
+  artifactKey: Guid(57e9bcdf261a3384eac9e4b8b62615be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/Cliff 3.prefab using Guid(57e9bcdf261a3384eac9e4b8b62615be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b5f5e6c1a480cf0f765cd6ce3f67a4e5') in 0.0207562 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/Rock 1 .prefab
+  artifactKey: Guid(39697217dc8529043b03c28ebdf10e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/Rock 1 .prefab using Guid(39697217dc8529043b03c28ebdf10e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '667c6f630217b115569919457a77f2bb') in 0.0191772 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000040 seconds.
-  path: Assets/SRC/Assets Baixados/animais/BlackBull/Texture/Materials/Eyelash.mat
-  artifactKey: Guid(39645fef614f2014ab9def38dae21b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SRC/Assets Baixados/animais/BlackBull/Texture/Materials/Eyelash.mat using Guid(39645fef614f2014ab9def38dae21b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe7baac81740b5483fcb670ef8e5295e') in 0.0161546 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/Gate .prefab
+  artifactKey: Guid(c1f349fbba3134c46807ca13bd968a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/Gate .prefab using Guid(c1f349fbba3134c46807ca13bd968a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f7c038770e1d28f4d42a81f23273ef9') in 0.02006 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/Cliff 1.prefab
+  artifactKey: Guid(1876e96a48eea50458d7e14f141123ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/Cliff 1.prefab using Guid(1876e96a48eea50458d7e14f141123ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '25b4e925cc197457d49838c4b4786e31') in 0.0217985 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/Rock 4 .prefab
+  artifactKey: Guid(a68fd9ce7b1d50d4da362904b5e2bb61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/Rock 4 .prefab using Guid(a68fd9ce7b1d50d4da362904b5e2bb61) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e6e846f4c0eeae3c2a0a34b5ac1e4159') in 0.0209839 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Skyden_Games/Low Poly Environment/Prefabs/Traffic Light .prefab
+  artifactKey: Guid(51037e8ebcbe7934e9fd19d0bb3f9763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skyden_Games/Low Poly Environment/Prefabs/Traffic Light .prefab using Guid(51037e8ebcbe7934e9fd19d0bb3f9763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f1d3f8506f26c1928578afa026212798') in 0.0190606 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
