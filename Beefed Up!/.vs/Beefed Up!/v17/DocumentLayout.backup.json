@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|c:\\users\\enzo\\documents\\github\\projeto4\\beefed up!\\assets\\scripts\\interact with man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interact with man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|c:\\users\\enzo\\documents\\github\\projeto4\\beefed up!\\assets\\src\\scripts\\legendaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\src\\scripts\\legendaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|c:\\users\\enzo\\documents\\github\\projeto4\\beefed up!\\assets\\scripts\\movimenta\u00E7lao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimenta\u00E7lao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\MensagemController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SRC\\Scripts\\MensagemController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\assets\\src\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\src\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Interact with Man.cs",
-              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\Scripts\\Interact with Man.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interact with Man.cs",
-              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\Scripts\\Interact with Man.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interact with Man.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Title": "LegendaUI.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\LegendaUI.cs",
+              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts\\LegendaUI.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\LegendaUI.cs",
+              "RelativeToolTip": "Assets\\SRC\\Scripts\\LegendaUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:10:41.922Z",
+              "WhenOpened": "2025-05-15T00:28:17.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Movimenta\u00E7lao.cs",
-              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\Scripts\\Movimenta\u00E7lao.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Movimenta\u00E7lao.cs",
-              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\Scripts\\Movimenta\u00E7lao.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Movimenta\u00E7lao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Title": "MensagemController.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\MensagemController.cs",
+              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts\\MensagemController.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\MensagemController.cs",
+              "RelativeToolTip": "Assets\\SRC\\Scripts\\MensagemController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:54:51.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T00:12:27.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts\\Health.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\SRC\\Scripts\\Health.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:33:05.249Z"
             }
           ]
         }
