@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/SRC/quest.unity
     guid: 5204390dbcd81124eae69eeaebf587f5
   - enabled: 1
+    path: "Assets/SRC/Cena p\xF3s quest 1.unity"
+    guid: 25cd2d3ba54b58d43824c04a6f754e1a
+  - enabled: 1
     path: Assets/SRC/Beefed Up! City Scene.unity
     guid: 418ee759dac0b4a41bf23b4a6b76bce6
   m_configObjects:
