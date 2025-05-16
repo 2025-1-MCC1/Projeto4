@@ -67,6 +67,7 @@
     <Compile Include="Assets\SRC\Scripts Do Jogo\Coin.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\SRC\Assets\Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs" />
+    <Compile Include="Assets\SRC\Scripts Do Jogo\wifis.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\SRC\Assets\Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
     <Compile Include="Assets\SRC\Assets\Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\ContrastStretch.cs" />
@@ -76,6 +77,7 @@
     <Compile Include="Assets\SRC\Assets\Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\GlobalFog.cs" />
     <Compile Include="Assets\SRC\Scripts Do Jogo\LegendaUI.cs" />
     <Compile Include="Assets\SRC\Assets\Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Tonemapping.cs" />
+    <Compile Include="Assets\SRC\Scripts Do Jogo\InteracaoVeia3.cs" />
     <Compile Include="Assets\SRC\Assets\Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionCurves.cs" />
     <Compile Include="Assets\SRC\Scripts Do Jogo\InteracaoVeia2.cs" />
     <Compile Include="Assets\SRC\Scripts Do Jogo\Interact with Man.cs" />
@@ -84,11 +86,13 @@
     <Compile Include="Assets\SRC\Assets\Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionRamp.cs" />
     <Compile Include="Assets\SRC\Assets\Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\ScreenOverlay.cs" />
     <Compile Include="Assets\SRC\Assets\Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs" />
+    <Compile Include="Assets\SRC\Scripts Do Jogo\wifi.cs" />
     <Compile Include="Assets\SRC\Assets Baixados\ithappy\Animals_FREE\Scripts\ThirdPersonCamera.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\SRC\Assets\Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Quads.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+    <Compile Include="Assets\SRC\Scripts Do Jogo\InteractionTrigger2.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
     <Compile Include="Assets\SRC\Scripts Do Jogo\moedas.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
@@ -101,6 +105,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
+    <Compile Include="Assets\SRC\Scripts Do Jogo\BotaoMenuInicial.cs" />
     <Compile Include="Assets\SRC\Assets\Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\CreaseShading.cs" />
     <Compile Include="Assets\SRC\Assets\Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\DepthOfFieldDeprecated.cs" />
     <Compile Include="Assets\SRC\Scripts Do Jogo\Health.cs" />

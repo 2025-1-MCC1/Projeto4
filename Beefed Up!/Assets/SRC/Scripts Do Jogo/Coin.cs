@@ -10,7 +10,7 @@ public class Coin : MonoBehaviour
     public Text coinText;
     public int coinValue = 200;
     public string nomeDaProximaCena = "ProximaFase"; // Defina o nome da próxima cena
-    public int limiteParaTrocarCena = 5000;
+    public int limiteParaTrocarCena = 1600;
 
     void Awake()
     {
