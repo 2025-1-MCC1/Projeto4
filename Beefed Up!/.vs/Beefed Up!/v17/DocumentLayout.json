@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|c:\\users\\enzo\\documents\\github\\projeto4\\beefed up!\\assets\\src\\scripts\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\src\\scripts\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|c:\\users\\enzo\\documents\\github\\projeto4\\beefed up!\\assets\\src\\cursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\src\\cursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|c:\\users\\enzo\\documents\\github\\projeto4\\beefed up!\\assets\\src\\scripts\\legendaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\src\\scripts\\legendaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|c:\\users\\enzo\\documents\\github\\projeto4\\beefed up!\\assets\\src\\scripts do jogo\\legendaui2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\src\\scripts do jogo\\legendaui2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\MensagemController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SRC\\Scripts\\MensagemController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\assets\\src\\scripts do jogo\\legendaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\src\\scripts do jogo\\legendaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\assets\\src\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\src\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\CursorManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SRC\\Scripts Do Jogo\\CursorManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\assets\\src\\scripts do jogo\\intera\u00E7\u00E3o veia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\src\\scripts do jogo\\intera\u00E7\u00E3o veia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\CursorToggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SRC\\Scripts Do Jogo\\CursorToggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\assets\\src\\scripts do jogo\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\src\\scripts do jogo\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +43,87 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Quest.cs",
-              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\Quest.cs",
-              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts\\Quest.cs",
-              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\Quest.cs",
-              "RelativeToolTip": "Assets\\SRC\\Scripts\\Quest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Title": "cursor.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\cursor.cs",
+              "RelativeDocumentMoniker": "Assets\\SRC\\cursor.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\cursor.cs",
+              "RelativeToolTip": "Assets\\SRC\\cursor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T00:51:07.768Z",
+              "WhenOpened": "2025-05-17T17:20:48.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LegendaUI.cs",
-              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\LegendaUI.cs",
-              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts\\LegendaUI.cs",
-              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\LegendaUI.cs",
-              "RelativeToolTip": "Assets\\SRC\\Scripts\\LegendaUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "LegendaUI2.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\LegendaUI2.cs",
+              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts Do Jogo\\LegendaUI2.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\LegendaUI2.cs",
+              "RelativeToolTip": "Assets\\SRC\\Scripts Do Jogo\\LegendaUI2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T00:28:17.826Z",
+              "WhenOpened": "2025-05-17T17:03:24.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MensagemController.cs",
-              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\MensagemController.cs",
-              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts\\MensagemController.cs",
-              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\MensagemController.cs",
-              "RelativeToolTip": "Assets\\SRC\\Scripts\\MensagemController.cs",
+              "Title": "LegendaUI.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\LegendaUI.cs",
+              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts Do Jogo\\LegendaUI.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\LegendaUI.cs",
+              "RelativeToolTip": "Assets\\SRC\\Scripts Do Jogo\\LegendaUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T00:12:27.436Z"
+              "WhenOpened": "2025-05-17T17:02:47.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Intera\u00E7\u00E3o Veia.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\Intera\u00E7\u00E3o Veia.cs",
+              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts Do Jogo\\Intera\u00E7\u00E3o Veia.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\Intera\u00E7\u00E3o Veia.cs",
+              "RelativeToolTip": "Assets\\SRC\\Scripts Do Jogo\\Intera\u00E7\u00E3o Veia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:57:21.875Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Health.cs",
-              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\Health.cs",
-              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts\\Health.cs",
-              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts\\Health.cs",
-              "RelativeToolTip": "Assets\\SRC\\Scripts\\Health.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAYwB8AAAAYAAAAAAAAAA==",
+              "Title": "CursorManager.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\CursorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts Do Jogo\\CursorManager.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\CursorManager.cs",
+              "RelativeToolTip": "Assets\\SRC\\Scripts Do Jogo\\CursorManager.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T22:33:05.249Z"
+              "WhenOpened": "2025-05-17T15:51:22.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CursorToggle.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\CursorToggle.cs",
+              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts Do Jogo\\CursorToggle.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\CursorToggle.cs",
+              "RelativeToolTip": "Assets\\SRC\\Scripts Do Jogo\\CursorToggle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:47:29.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts Do Jogo\\Health.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\Health.cs",
+              "RelativeToolTip": "Assets\\SRC\\Scripts Do Jogo\\Health.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:18:27.532Z"
             }
           ]
         }

@@ -29,6 +29,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SRC/CENAS/Fim Do Jogo.unity
     guid: 9bba2a8f414019544bfa26a340def501
+  - enabled: 1
+    path: Assets/SRC/CENAS/GameOver.unity
+    guid: ab29e441162330c408ed709bd8cdb71c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

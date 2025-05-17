@@ -1,5 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+
 
 public class Health : MonoBehaviour
 {
@@ -28,18 +30,25 @@ public class Health : MonoBehaviour
 
     void Die()
     {
-        // Lógica de morte do personagem
-        Debug.Log("Voce morreu!");
-        // Destroy(gameObject); // se quiser destruir
+        Debug.Log("Você morreu!");
+        // Pausa o jogo (opcional, mas geralmente quando troca de cena não precisa)
+        Time.timeScale = 1f;
+
+        // Carrega a cena de Game Over
+        SceneManager.LoadScene("GameOver");
+
+        // Destruir o jogador (opcional)
+        Destroy(gameObject);
     }
+
 
     // Testar o dano
     //void Update()
     //{
-     //if (Input.GetKeyDown(KeyCode.Space))
-     //{
-         //TakeDamage(10f); // Tira 10 de vida quando aperta espaço
-     //}
-     //}
+    //if (Input.GetKeyDown(KeyCode.Space))
+    //{
+    //TakeDamage(10f); // Tira 10 de vida quando aperta espaço
+    //}
+    //}
 
 }
