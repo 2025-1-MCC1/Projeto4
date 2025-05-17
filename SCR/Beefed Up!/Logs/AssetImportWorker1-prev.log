@@ -1,0 +1,377 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.38f1 (82314a941f2d) revision 8532298'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'pt' Physical Memory: 15763 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/Enzoh/Downloads/Projeto4-main/Projeto4-main/Beefed Up!
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+61794
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/Enzoh/Downloads/Projeto4-main/Projeto4-main/Beefed Up!
+C:/Users/Enzoh/Downloads/Projeto4-main/Projeto4-main/Beefed Up!
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [16612]  Target information:
+
+Player connection [16612]  * "[IP] 192.168.15.196 [Port] 0 [Flags] 2 [Guid] 1412704228 [EditorId] 1412704228 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-BC0HNE4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16612] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [16612] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.38f1 (82314a941f2d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Enzoh/Downloads/Projeto4-main/Projeto4-main/Beefed Up!/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1636)
+    Vendor:   ATI
+    VRAM:     7881 MB
+    Driver:   31.0.21916.2
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56948
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004923 seconds.
+- Loaded All Assemblies, in  0.561 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.642 seconds
+Domain Reload Profiling: 1197ms
+	BeginReloadAssembly (186ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (72ms)
+	LoadAllAssembliesAndSetupDomain (225ms)
+		LoadAssemblies (181ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (222ms)
+			TypeCache.Refresh (220ms)
+				TypeCache.ScanAssembly (202ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (642ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (581ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (96ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (99ms)
+			ProcessInitializeOnLoadAttributes (274ms)
+			ProcessInitializeOnLoadMethodAttributes (103ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.396 seconds
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.05 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Refreshing native plugins compatible for Editor in 2.67 ms, found 3 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.245 seconds
+Domain Reload Profiling: 2628ms
+	BeginReloadAssembly (245ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (60ms)
+	RebuildNativeTypeToScriptingClass (26ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (987ms)
+		LoadAssemblies (642ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (488ms)
+			TypeCache.Refresh (357ms)
+				TypeCache.ScanAssembly (323ms)
+			BuildScriptInfoCaches (107ms)
+			ResolveRequiredComponents (20ms)
+	FinalizeReload (1245ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1002ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (183ms)
+			ProcessInitializeOnLoadAttributes (653ms)
+			ProcessInitializeOnLoadMethodAttributes (133ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 545 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 8167 unused Assets / (28.3 MB). Loaded Objects now: 8926.
+Memory consumption went from 282.2 MB to 253.9 MB.
+Total: 22.865100 ms (FindLiveObjects: 1.541800 ms CreateObjectMapping: 2.109200 ms MarkObjects: 8.099200 ms  DeleteObjects: 11.113200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7884.443708 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Prefabs/Doctor_Male_B.prefab
+  artifactKey: Guid(314b13a2c4f89c74299eabc2a4c725c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Prefabs/Doctor_Male_B.prefab using Guid(314b13a2c4f89c74299eabc2a4c725c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd073e539cce9f94b3f5d826d45c6df59') in 1.2524143 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 421
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Prefabs/elder_Female_A.prefab
+  artifactKey: Guid(bcc8732b8b44622449c23934f89e68c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Prefabs/elder_Female_A.prefab using Guid(bcc8732b8b44622449c23934f89e68c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f299fc1c71ac08b72208048ccea7fa9a') in 0.0699477 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 94
+
+========================================================================
+Received Import Request.
+  Time since last request: 513.108941 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/disaProps.mat
+  artifactKey: Guid(723ed4c8a00fd5546bf0bb71d745a59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/disaProps.mat using Guid(723ed4c8a00fd5546bf0bb71d745a59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4625e15b5de2af9218d15c70166d4427') in 0.0447283 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/dummyProp.mat
+  artifactKey: Guid(21d9e169241a90a45bf52ac307cb6a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/dummyProp.mat using Guid(21d9e169241a90a45bf52ac307cb6a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10c123ba53b4a37cbbb8f5022e5b8236') in 0.0139735 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s6.mat
+  artifactKey: Guid(214522dcab1b87643901ca3e37cb7f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s6.mat using Guid(214522dcab1b87643901ca3e37cb7f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fbd1fcae90a3069e8541404f147b0f48') in 0.0151982 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s16.mat
+  artifactKey: Guid(08a4b6d08b95d134587198c1b6620853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s16.mat using Guid(08a4b6d08b95d134587198c1b6620853) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b41eae99280707b30518e1306d264d25') in 0.0270574 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s19.mat
+  artifactKey: Guid(ed00d8d27abc09440b121cddf9012484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s19.mat using Guid(ed00d8d27abc09440b121cddf9012484) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f900fe60d7f1c778ae1d29dadbe8b9c') in 0.0165017 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s30.mat
+  artifactKey: Guid(dcd00ecddffe74a4b9fae1545ca27a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s30.mat using Guid(dcd00ecddffe74a4b9fae1545ca27a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '052c906a1a032186ffcd4d39c3d8ad56') in 0.0415996 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s5.mat
+  artifactKey: Guid(fad8ac2b16585714b9d210f49e9cd5c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s5.mat using Guid(fad8ac2b16585714b9d210f49e9cd5c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2cdfdb7b019c8c9425f5d1af2fade2f3') in 0.0186492 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s21.mat
+  artifactKey: Guid(3cda4225e521fd9419bf97dc1205c59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s21.mat using Guid(3cda4225e521fd9419bf97dc1205c59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '187507fff4705e6575525b86c37adae3') in 0.0177963 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s25.mat
+  artifactKey: Guid(fb960064b3af2ec4b82ce96c8de0e7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s25.mat using Guid(fb960064b3af2ec4b82ce96c8de0e7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '46bdff3e28bd9dd0bf9fb9c6202a05b6') in 0.0404666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s8.mat
+  artifactKey: Guid(9b60aefc9654bf242a2d750f05757cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s8.mat using Guid(9b60aefc9654bf242a2d750f05757cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ceccac731601fe15e562a7bf6fc7a94f') in 0.0179331 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s9.mat
+  artifactKey: Guid(f06d56350a4f9b541b307e1a36ea9144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s9.mat using Guid(f06d56350a4f9b541b307e1a36ea9144) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '61ee74b5b837c4d050e5687fa23f4f4a') in 0.0175939 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s14.mat
+  artifactKey: Guid(8e31d621a5287f34eadf2de69c322457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s14.mat using Guid(8e31d621a5287f34eadf2de69c322457) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '297f17e28afde1d11d0082414bc12da1') in 0.0164537 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s18.mat
+  artifactKey: Guid(d326e4d2c16efea41870b40bfcd95ca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s18.mat using Guid(d326e4d2c16efea41870b40bfcd95ca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eefd585778c6ce622e63ce0f78bfb7c1') in 0.0136483 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s2.mat
+  artifactKey: Guid(1d95677abf7c15c4db76fd18761f08c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s2.mat using Guid(1d95677abf7c15c4db76fd18761f08c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb85279fe1a2ab40ced492ce2acf399b') in 0.0152505 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s33.mat
+  artifactKey: Guid(8e119e0a484a80d4d938bd1b626bf98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s33.mat using Guid(8e119e0a484a80d4d938bd1b626bf98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d4b3869d9cd3fefb03f74cf4d29e1ca') in 0.0270173 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s26.mat
+  artifactKey: Guid(b9e9eeb2f36410842be26e41db1977c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s26.mat using Guid(b9e9eeb2f36410842be26e41db1977c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ded54404874489aeeff1a5d2ffd5b57b') in 0.0271822 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s32.mat
+  artifactKey: Guid(6df8116f994906b489295605f1cfaab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s32.mat using Guid(6df8116f994906b489295605f1cfaab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f2c322f0b3b1a60e567b19776960861') in 0.0263305 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s20.mat
+  artifactKey: Guid(82f0aa2bc0c03634193a2331e5b66c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s20.mat using Guid(82f0aa2bc0c03634193a2331e5b66c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'adf16aea776d41bc5ceda9b3c57bb946') in 0.015365 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s10.mat
+  artifactKey: Guid(4039c59d1f427ea46898e48023494d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s10.mat using Guid(4039c59d1f427ea46898e48023494d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4401af20ef19a897431844ae5895c413') in 0.0207025 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s1.mat
+  artifactKey: Guid(328c5091a8ee294469abd999a91ef5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SRC/Assets Baixados/DenysAlmaral/CityPeople-FREE/Materials/people_pal_s1.mat using Guid(328c5091a8ee294469abd999a91ef5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '398bf17c8b34c7697cf476d1a655f576') in 0.0162138 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
