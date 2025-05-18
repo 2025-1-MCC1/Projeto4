@@ -35,8 +35,8 @@ Você joga como o filho de Luís, o último herdeiro da fazenda e da cidade. Cab
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->Entrega 1<br>
-  &emsp;|-->Entrega 2<br>
+  |-->|-->Entrega 1<br>
+  |-->|-->Entrega 2<br>
 &emsp;|-->Entrega 1<br>
     &emsp;|Calculo I<br>
     &emsp;|Ética e Pensamento Computacional<br>
