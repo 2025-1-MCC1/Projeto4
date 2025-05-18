@@ -35,12 +35,20 @@ Você joga como o filho de Luís, o último herdeiro da fazenda e da cidade. Cab
 -Raiz<br>
 |<br>
 |-->documentos<br>
+&emsp;|-->Entrega 1<br>
+&emsp;|-->Entrega 2<br>
   &emsp;|-->Entrega 1<br>
-  &emsp;|Calculo I<br>
-  &emsp;|Ética e Pensamento Computacional<br>
-  &emsp;|Algoritmos e Lógica de Programação<br>
-  &emsp;|Jogos e Sistemas Interativos<br>
-  &emsp;|Projeto Interdisciplinar: Jogos Digitais<br>
+    &emsp;|Calculo I<br>
+    &emsp;|Ética e Pensamento Computacional<br>
+    &emsp;|Algoritmos e Lógica de Programação<br>
+    &emsp;|Jogos e Sistemas Interativos<br>
+    &emsp;|Projeto Interdisciplinar: Jogos Digitais<br>
+  &emsp;|-->Entrega 2<br>
+    &emsp;|Calculo I<br>
+    &emsp;|Ética e Pensamento Computacional<br>
+    &emsp;|Algoritmos e Lógica de Programação<br>
+    &emsp;|Jogos e Sistemas Interativos<br>
+    &emsp;|Projeto Interdisciplinar: Jogos Digitais<br>
 |-->executáveis<br>
   &emsp;|-->windows<br>
   &emsp;|-->WebGL<br>
