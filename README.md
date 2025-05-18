@@ -35,16 +35,19 @@ Você joga como o filho de Luís, o último herdeiro da fazenda e da cidade. Cab
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
+  &emsp;|-->Entrega 1<br>
+  &emsp;|Calculo I<br>
+  &emsp;|Ética e Pensamento Computacional<br>
+  &emsp;|Algoritmos e Lógica de Programação<br>
+  &emsp;|Jogos e Sistemas Interativos<br>
+  &emsp;|Projeto Interdisciplinar: Jogos Digitais<br>
 |-->executáveis<br>
   &emsp;|-->windows<br>
-  &emsp;|-->android<br>
+  &emsp;|-->WebGL<br>
   &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+  &emsp;|-->Beefed Up!
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
@@ -63,19 +66,11 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
 
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Encontre o Bild Windows.zip na pasta Entrega 2 --> Jogos e Sistemas Interativos e execute-o como qualquer outro programa.
 
 ```sh
 Coloque código do prompt de comnando se for necessário
@@ -92,7 +87,7 @@ Descreva como instalar todas as dependências para desenvolvimento e como rodar 
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
--<a href="https://godotengine.org/download">GODOT</a>
+-<a href="[https://godotengine.org/download](https://unity.com/pt/releases/editor/whats-new/6000.0.38)">Unity</a>
 
 ```sh
 make install
