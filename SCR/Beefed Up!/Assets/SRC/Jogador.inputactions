@@ -1,0 +1,34 @@
+{
+    "name": "Jogador",
+    "maps": [
+        {
+            "name": "Movimentos",
+            "id": "3d9ac550-c47c-420e-8ae7-6beb0080177c",
+            "actions": [
+                {
+                    "name": "Interação",
+                    "type": "Button",
+                    "id": "05c96b59-22d5-4522-9ec9-bf86de2b5f21",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f153627b-204c-45ce-978b-b3e0a6ec2087",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Interação",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
