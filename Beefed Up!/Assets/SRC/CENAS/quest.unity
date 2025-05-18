@@ -6219,50 +6219,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 482474745}
   m_Mesh: {fileID: 6602302412831896246, guid: 6881d3df53d65c141a8c1d5ce0dbf93c, type: 3}
---- !u!1 &483070892
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 483070894}
-  - component: {fileID: 483070893}
-  m_Layer: 0
-  m_Name: CursorToggle
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &483070893
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 483070892}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a4a5023a4d576d6479438081a68c9180, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &483070894
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 483070892}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -39.803562, y: 7.7486258, z: 275.2209}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &488196438
 GameObject:
   m_ObjectHideFlags: 0
@@ -13806,7 +13762,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b23c453b67e87214e8259461df37b178, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -39.495056
+      value: -39.57
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b23c453b67e87214e8259461df37b178, type: 3}
       propertyPath: m_LocalPosition.y
@@ -13814,7 +13770,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b23c453b67e87214e8259461df37b178, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 104.59
+      value: 104.38
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b23c453b67e87214e8259461df37b178, type: 3}
       propertyPath: m_LocalRotation.w
@@ -18326,7 +18282,7 @@ NavMeshAgent:
   m_GameObject: {fileID: 1455395043}
   m_Enabled: 1
   m_AgentTypeID: 0
-  m_Radius: 0.5
+  m_Radius: 0.32
   m_Speed: 3.5
   m_Acceleration: 8
   avoidancePriority: 50
@@ -18335,7 +18291,7 @@ NavMeshAgent:
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
-  m_Height: 2
+  m_Height: 1.59
   m_BaseOffset: 0
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
@@ -18385,8 +18341,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.39, y: 1.42, z: 0.46}
-  m_Center: {x: 0, y: 0.82, z: 0.14}
+  m_Size: {x: -1.18, y: 1.42, z: 0.52}
+  m_Center: {x: 0, y: 0.82, z: 0.2}
 --- !u!114 &1455395051
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26369,5 +26325,4 @@ SceneRoots:
   - {fileID: 457663904}
   - {fileID: 1114022551}
   - {fileID: 534246325}
-  - {fileID: 483070894}
   - {fileID: 899735597}

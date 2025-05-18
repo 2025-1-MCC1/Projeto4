@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|c:\\users\\enzo\\documents\\github\\projeto4\\beefed up!\\assets\\src\\scripts do jogo\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D060D8E8-5CE7-3FB2-F7D1-945970CA7284}|Assembly-CSharp.csproj|solutionrelative:assets\\src\\scripts do jogo\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\Quest.cs",
+              "RelativeDocumentMoniker": "Assets\\SRC\\Scripts Do Jogo\\Quest.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Documents\\GitHub\\Projeto4\\Beefed Up!\\Assets\\SRC\\Scripts Do Jogo\\Quest.cs",
+              "RelativeToolTip": "Assets\\SRC\\Scripts Do Jogo\\Quest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T02:37:45.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
