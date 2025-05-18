@@ -110,12 +110,12 @@ Clone o repositório:
 git clone https://github.com/2025-1-MCC1/Projeto4/
 ```
 
-Instale as dependências (se necessário):
+Faça o seguinte passo a passo:
 
 ```sh
-make install
-npm test
-# Substitua por comandos reais, se aplicável
+Abra/instale o Unity 6000.0.38f1: Clique em Open Project e selecione a pasta onde se encontra o projeto.
+ Configure a cena inicial: Assets>SCR>CENAS e abra a cena inicial (Menu).
+ Execute o jogo: Pressione o botão Play no editor do Unity.
 ```
 
 ---
