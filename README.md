@@ -107,15 +107,10 @@ Para abrir e rodar este projeto, você precisará das seguintes ferramentas:
 Clone o repositório:
 
 ```sh
-git clone https://github.com/seu-repo-aqui
+git clone https://github.com/2025-1-MCC1/Projeto4/
 ```
 
-Instale as dependências (se necessário):
 
-```sh
-make install
-npm test
-# Substitua por comandos reais, se aplicável
 ```
 
 ---
